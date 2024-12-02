@@ -1,0 +1,3413 @@
+,Unnamed: 0,drugName,condition
+0,0,valsartan,Left Ventricular Dysfunction
+1,1,guanfacine,ADHD
+2,2,lybrel,Birth Control
+3,3,ortho evra,Birth Control
+4,4,buprenorphine / naloxone,Opiate Dependence
+5,5,cialis,Benign Prostatic Hyperplasia
+6,6,levonorgestrel,Emergency Contraception
+7,7,aripiprazole,Bipolar Disorde
+8,8,keppra,Epilepsy
+9,9,ethinyl estradiol / levonorgestrel,Birth Control
+10,10,topiramate,Migraine Prevention
+11,11,l-methylfolate,Depression
+12,12,pentasa,Crohn's Disease
+13,13,dextromethorphan,Cough
+14,14,nexplanon,Birth Control
+15,15,liraglutide,Obesity
+16,16,trimethoprim,Urinary Tract Infection
+17,17,amitriptyline,ibromyalgia
+18,18,lamotrigine,Bipolar Disorde
+19,19,nilotinib,Chronic Myelogenous Leukemia
+20,20,atripla,HIV Infection
+21,21,trazodone,Insomnia
+22,22,etonogestrel,Birth Control
+23,23,etanercept,Rheumatoid Arthritis
+24,24,tioconazole,Vaginal Yeast Infection
+25,25,azithromycin,Chlamydia Infection
+26,26,eflornithine,Hirsutism
+27,27,daytrana,ADHD
+28,28,ativan,Panic Disorde
+29,29,imitrex,Migraine
+30,30,sertraline,Depression
+31,31,toradol,Pain
+32,33,viberzi,Irritable Bowel Syndrome
+33,34,mobic,Osteoarthritis
+34,35,dulcolax,Constipation
+35,36,morphine,Pain
+36,37,moviprep,Bowel Preparation
+37,38,trilafon,Psychosis
+38,39,fluconazole,Vaginal Yeast Infection
+39,40,contrave,Obesity
+40,41,clonazepam,Panic Disorde
+41,42,metaxalone,Muscle Spasm
+42,43,venlafaxine,Depression
+43,44,ledipasvir / sofosbuvir,Hepatitis C
+44,46,symbyax,Bipolar Disorde
+45,47,tamsulosin,Overactive Bladde
+46,48,doxycycline,Urinary Tract Infection
+47,49,dulaglutide,"Diabetes, Type 2"
+48,50,intuniv,ADHD
+49,51,buprenorphine,Pain
+50,52,qvar,"Asthma, Maintenance"
+51,53,opdivo,Non-Small Cell Lung Cance
+52,55,pyridium,Dysuria
+53,56,latuda,Bipolar Disorde
+54,57,bupropion,Smoking Cessation
+55,58,implanon,Birth Control
+56,59,effexor xr,Anxiety
+57,60,drospirenone / ethinyl estradiol,Birth Control
+58,63,nuvaring,Birth Control
+59,64,prepopik,Bowel Preparation
+60,65,tretinoin,Acne
+61,67,gildess fe 1 / 20,Birth Control
+62,68,ethinyl estradiol / norgestimate,Acne
+63,69,elbasvir / grazoprevir,Hepatitis C
+64,70,clomiphene,emale Infertility
+65,71,docusate / senna,"Constipation, Acute"
+66,72,amitiza,"Constipation, Drug Induced"
+67,75,sildenafil,Erectile Dysfunction
+68,76,lo loestrin fe,Birth Control
+69,79,oxcarbazepine,Trigeminal Neuralgia
+70,80,wellbutrin,Depression
+71,83,phillips' milk of magnesia,Constipation
+72,84,nature-throid,Underactive Thyroid
+73,85,lithium,Bipolar Disorde
+74,86,oxycodone,Chronic Pain
+75,88,estradiol,Atrophic Vaginitis
+76,89,sronyx,Birth Control
+77,90,augmentin xr,Skin and Structure Infection
+78,91,monistat 7-day combination pack,Vaginal Yeast Infection
+79,92,plan b one-step,Emergency Contraception
+80,93,alprazolam,Tinnitus
+81,94,fluoxetine,Major Depressive Disorde
+82,97,spironolactone,Acne
+83,98,fluvoxamine,Anxiety and Stress
+84,99,macrobid,Urinary Tract Infection
+85,100,lurasidone,Schizophrenia
+86,101,adapalene / benzoyl peroxide,Acne
+87,102,brimonidine,Rosacea
+88,103,amlodipine / olmesartan,High Blood Pressure
+89,104,linaclotide,Irritable Bowel Syndrome
+90,105,mirtazapine,Anxiety
+91,106,acetaminophen / hydrocodone,Pain
+92,107,isotretinoin,Acne
+93,108,ropinirole,Restless Legs Syndrome
+94,109,zoledronic acid,Osteolytic Bone Metastases of Solid Tumors
+95,110,lamictal,Bipolar Disorde
+96,112,buspirone,Anxiety
+97,113,propranolol,Anxiety
+98,114,focalin,ADHD
+99,116,jolivette,Birth Control
+100,117,levofloxacin,Bronchitis
+101,118,phentermine / topiramate,Obesity
+102,119,cephalexin,Skin or Soft Tissue Infection
+103,120,aviane,Birth Control
+104,122,saxenda,Obesity
+105,123,clomipramine,Obsessive Compulsive Disorde
+106,124,medroxyprogesterone,Endometriosis
+107,126,aczone,Acne
+108,127,nicoderm cq,Smoking Cessation
+109,129,naltrexone,Opiate Dependence
+110,130,restasis,Keratoconjunctivitis Sicca
+111,131,depo-provera,Birth Control
+112,132,olanzapine,Bipolar Disorde
+113,133,oxytrol,Overactive Bladde
+114,134,fentanyl,Breakthrough Pain
+115,135,epiduo,Acne
+116,139,accutane,Acne
+117,140,xanax,Panic Disorde
+118,141,desvenlafaxine,Depression
+119,146,lyrica,Neuropathic Pain
+120,148,phenergan,Sedation
+121,153,loestrin 21 1 / 20,Menstrual Disorders
+122,156,loratadine,Allergic Rhinitis
+123,157,cardura xl,Benign Prostatic Hyperplasia
+124,158,viibryd,Major Depressive Disorde
+125,159,mirena,Birth Control
+126,160,ethinyl estradiol / norelgestromin,Birth Control
+127,161,propofol,Anesthesia
+128,162,camphor / menthol,Pain
+129,163,hydroxychloroquine,Undifferentiated Connective Tissue Disease
+130,164,lorcaserin,Obesity
+131,165,insulin degludec,"Diabetes, Type 1"
+132,166,trintellix,Depression
+133,167,lupron depot,Endometriosis
+134,169,zanaflex,Muscle Spasm
+135,170,miconazole,Vaginal Yeast Infection
+136,171,opana er,Pain
+137,173,provera,Abnormal Uterine Bleeding
+138,177,diflucan,Vaginal Yeast Infection
+139,178,ibrance,"Breast Cancer, Metastatic"
+140,180,reclipsen,Birth Control
+141,182,lisinopril,High Blood Pressure
+142,184,empagliflozin,"Diabetes, Type 2"
+143,185,naproxen,Period Pain
+144,186,amoxicillin / clarithromycin / lansoprazole,Helicobacter Pylori Infection
+145,188,metoprolol,Atrial Fibrillation
+146,189,naloxegol,"Constipation, Drug Induced"
+147,191,skyla,Birth Control
+148,192,leuprolide,Uterine Fibroids
+149,193,ulipristal,Emergency Contraception
+150,194,benzonatate,Cough
+151,196,sulfamethoxazole / trimethoprim,Kidney Infections
+152,197,eletriptan,Migraine
+153,199,escitalopram,Generalized Anxiety Disorde
+154,200,dulera,Asthma
+155,202,prempro,Postmenopausal Symptoms
+156,203,gemfibrozil,High Cholesterol
+157,204,depakote,Bipolar Disorde
+158,205,testosterone,"Hypogonadism, Male"
+159,206,zomig,Migraine
+160,207,vyvanse,ADHD
+161,210,solodyn,Acne
+162,211,efavirenz / emtricitabine / tenofovir,HIV Infection
+163,213,methimazole,Hyperthyroidism
+164,215,ortho tri-cyclen,Birth Control
+165,216,aleve,Back Pain
+166,217,tylenol with codeine #3,Cough
+167,219,victoza,"Diabetes, Type 2"
+168,220,lubiprostone,Irritable Bowel Syndrome
+169,222,ethinyl estradiol / norethindrone,Birth Control
+170,223,sovaldi,Hepatitis C
+171,226,pristiq,Depression
+172,227,temozolomide,Anaplastic Oligodendroglioma
+173,228,nabumetone,Rheumatoid Arthritis
+174,231,meloxicam,Osteoarthritis
+175,232,cevimeline,Sjogren's Syndrome
+176,234,proair respiclick,"Asthma, acute"
+177,236,gabapentin,Hot Flashes
+178,237,relpax,Migraine
+179,238,levomilnacipran,Depression
+180,239,valtrex,"Herpes Simplex, Suppression"
+181,240,clindamycin,Bacterial Infection
+182,241,buspar,Anxiety
+183,242,plan b,Emergency Contraception
+184,243,trolamine salicylate,Bursitis
+185,245,lisdexamfetamine,ADHD
+186,249,qsymia,Weight Loss
+187,250,rizatriptan,Migraine
+188,252,ziana,Acne
+189,254,boudreaux butt paste,Diaper Rash
+190,256,cymbalta,Depression
+191,257,zoloft,Panic Disorde
+192,258,tizanidine,Muscle Spasm
+193,259,gastrocrom,Systemic Mastocytosis
+194,260,seasonique,Birth Control
+195,262,amphetamine / dextroamphetamine,ADHD
+196,263,liletta,Birth Control
+197,265,exenatide,"Diabetes, Type 2"
+198,267,paroxetine,Trichotillomania
+199,270,bontril slow release,Obesity
+200,271,levothroid,Hashimoto's disease
+201,272,carbamazepine,Epilepsy
+202,274,adipex-p,Weight Loss
+203,275,bydureon,"Diabetes, Type 2"
+204,276,bupropion / naltrexone,Obesity
+205,281,voltaren-xr,Pain
+206,283,pimecrolimus,Eczema
+207,284,acetaminophen / oxycodone,Chronic Pain
+208,286,monistat 7,Vaginal Yeast Infection
+209,288,pramipexole,Restless Legs Syndrome
+210,290,androgel,"Hypogonadism, Male"
+211,294,nitrofurantoin,Urinary Tract Infection
+212,295,metronidazole,Dental Abscess
+213,296,ziprasidone,Bipolar Disorde
+214,297,acetaminophen / butalbital / caffeine,Headache
+215,300,nuvigil,Hypersomnia
+216,301,moxifloxacin,Bronchitis
+217,302,methadone,Chronic Pain
+218,303,celecoxib,Pain
+219,304,aspirin / butalbital / caffeine,Migraine
+220,305,montelukast,Allergic Rhinitis
+221,306,saliva substitutes,Xerostomia
+222,307,atomoxetine,ADHD
+223,311,anastrozole,Breast Cance
+224,313,phenol,Sore Throat
+225,315,duloxetine,Anxiety
+226,316,magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation
+227,322,lansoprazole,Barrett's Esophagus
+228,324,nardil,Depression
+229,325,milnacipran,ibromyalgia
+230,327,oxymorphone,Pain
+231,329,acetaminophen / aspirin / caffeine,Pain/Feve
+232,334,levora,Birth Control
+233,336,paragard,Birth Control
+234,337,levaquin,Urinary Tract Infection
+235,339,ciprofloxacin,Diverticulitis
+236,341,avelox,Sinusitis
+237,343,acidophilus,Vaginal Yeast Infection
+238,345,metformin,Polycystic Ovary Syndrome
+239,346,terconazole,Vaginal Yeast Infection
+240,350,saphris,Bipolar Disorde
+241,351,augmentin,Sinusitis
+242,353,lexapro,Anxiety
+243,354,tamiflu,Influenza
+244,357,prazosin,High Blood Pressure
+245,359,liothyronine,"Hypothyroidism, After Thyroid Removal"
+246,360,seroquel,Generalized Anxiety Disorde
+247,364,terbinafine,"Onychomycosis, Toenail"
+248,367,valium,Muscle Spasm
+249,371,norco,Pain
+250,375,progesterone,Progesterone Insufficiency
+251,376,concerta,ADHD
+252,377,ocella,Birth Control
+253,379,strattera,ADHD
+254,386,mylanta,GERD
+255,390,trinessa,Acne
+256,391,goserelin,Endometriosis
+257,393,quetiapine,Bipolar Disorde
+258,394,testim,"Hypogonadism, Male"
+259,395,emend,"Nausea/Vomiting, Postoperative"
+260,396,methylphenidate,Depression
+261,399,acyclovir,Herpes Simplex
+262,400,linzess,"Constipation, Chronic"
+263,402,orthovisc,Osteoarthritis
+264,403,silodosin,Benign Prostatic Hyperplasia
+265,405,metoclopramide,Gastroparesis
+266,406,indomethacin,"Gout, Acute"
+267,407,copper,Birth Control
+268,408,meclizine,Motion Sickness
+269,411,gilenya,Multiple Sclerosis
+270,417,microgestin fe 1 / 20,Birth Control
+271,419,klonopin,Panic Disorde
+272,423,codeine / guaifenesin,Cough
+273,429,citalopram,Anxiety and Stress
+274,430,colazal,Crohn's Disease
+275,432,fiorinal with codeine,Headache
+276,438,zolpidem,Insomnia
+277,439,wellbutrin xl,Depression
+278,442,climara pro,Postmenopausal Symptoms
+279,449,clarithromycin,Otitis Media
+280,451,bactrim ds,Upper Respiratory Tract Infection
+281,452,varenicline,Smoking Cessation
+282,456,amoxicillin / clavulanate,Upper Respiratory Tract Infection
+283,459,tolterodine,Overactive Bladde
+284,463,hydroxyzine,Anxiety
+285,464,blisovi fe 1 / 20,Birth Control
+286,465,ramelteon,Insomnia
+287,468,infliximab,Psoriatic Arthritis
+288,469,rabeprazole,Erosive Esophagitis
+289,470,dexilant,GERD
+290,473,immune globulin oral,Irritable Bowel Syndrome
+291,474,nucynta,Pain
+292,475,hysingla er,Pain
+293,477,pantoprazole,Stomach Ulce
+294,478,sprycel,Chronic Myelogenous Leukemia
+295,480,tri-sprintec,Acne
+296,481,zofran,Nausea/Vomiting
+297,482,versed,Light Anesthesia
+298,484,cipro,Urinary Tract Infection
+299,487,ms contin,Chronic Pain
+300,489,avonex,Multiple Sclerosis
+301,493,focalin xr,ADHD
+302,495,loestrin 24 fe,Birth Control
+303,499,junel fe 1 / 20,Birth Control
+304,502,imdur,Angina Pectoris Prophylaxis
+305,504,diazepam,Anxiety
+306,505,bisacodyl,Constipation
+307,510,suvorexant,Insomnia
+308,513,risperidone,Paranoid Disorde
+309,516,sprintec,Birth Control
+310,519,risperdal,Paranoid Disorde
+311,526,simponi,Rheumatoid Arthritis
+312,528,euflexxa,Osteoarthritis
+313,529,diclofenac,Pain
+314,531,dimenhydrinate,Nausea/Vomiting
+315,532,benztropine,Extrapyramidal Reaction
+316,534,ortho tri-cyclen lo,Birth Control
+317,536,ibuprofen,Pain
+318,537,sumatriptan,Migraine
+319,539,polyethylene glycol 3350,Constipation
+320,544,xenical,Obesity
+321,545,glatiramer,Multiple Sclerosis
+322,547,atarax,Anxiety
+323,550,orsythia,Birth Control
+324,551,alirocumab,"High Cholesterol, Familial Heterozygous"
+325,557,sublimaze,Anesthesia
+326,564,ethinyl estradiol / etonogestrel,Birth Control
+327,567,femhrt,Postmenopausal Symptoms
+328,570,lortab,Pain
+329,575,haldol,Nausea/Vomiting
+330,576,tapentadol,Pain
+331,579,ketorolac,Pain
+332,580,phentermine,Weight Loss
+333,582,effexor,Depression
+334,585,remicade,Spondyloarthritis
+335,587,flexeril,ibromyalgia
+336,588,smz-tmp ds,Upper Respiratory Tract Infection
+337,590,dutasteride,Benign Prostatic Hyperplasia
+338,592,thyroid desiccated,Underactive Thyroid
+339,594,opana,Pain
+340,595,zyprexa,Depression
+341,597,vedolizumab,Crohn's Disease
+342,601,chantix,Smoking Cessation
+343,602,suboxone,Opiate Dependence
+344,605,mirapex,Restless Legs Syndrome
+345,606,uribel,Urinary Tract Infection
+346,607,vicks sinex nasal spray (old formulation),Nasal Congestion
+347,608,bactrim,Urinary Tract Infection
+348,610,depo-provera contraceptive,Birth Control
+349,612,ceftriaxone,Bacterial Infection
+350,613,ranexa,Angina
+351,620,trulicity,"Diabetes, Type 2"
+352,621,percocet,Pain
+353,624,sitagliptin,"Diabetes, Type 2"
+354,625,formoterol / mometasone,moterol / mometasone)
+355,636,ambien,Insomnia
+356,637,belviq,Weight Loss
+357,638,retapamulin,Impetig
+358,642,vigamox,"Conjunctivitis, Bacterial"
+359,643,levetiracetam,Epilepsy
+360,646,yaz,Birth Control
+361,648,elidel,Eczema
+362,650,abilify discmelt,Post Traumatic Stress Disorde
+363,655,delsym 12 hour cough relief,Cough
+364,656,baclofen,Alcohol Withdrawal
+365,658,halobetasol,Psoriasis
+366,660,azelastine / fluticasone,Allergic Rhinitis
+367,662,drysol,Hyperhidrosis
+368,668,cimzia,Ankylosing Spondylitis
+369,669,rexulti,Depression
+370,670,proctofoam,Hemorrhoids
+371,674,cefdinir,Sinusitis
+372,675,tramadol,Pain
+373,678,norflex,Muscle Spasm
+374,680,humira,Psoriasis
+375,681,tecfidera,Multiple Sclerosis
+376,685,acetaminophen / dichloralphenazone / isometheptene mucate,Headache
+377,689,benzoyl peroxide / clindamycin,Acne
+378,693,methyl salicylate,Osteoarthritis
+379,694,monistat 3-day combination pack,Vaginal Yeast Infection
+380,695,clindamycin / tretinoin,Acne
+381,699,flonase,Rhinitis
+382,701,norethindrone,Birth Control
+383,710,alvesco,"Asthma, Maintenance"
+384,714,nystatin,Oral Thrush
+385,718,econtra ez,Emergency Contraception
+386,719,tricor,Hyperlipoproteinemia
+387,720,diphenhydramine,Insomnia
+388,721,neulasta,Neutropenia Associated with Chemotherapy
+389,724,zolmitriptan,Migraine
+390,725,minastrin 24 fe,Birth Control
+391,730,levothyroxine,Underactive Thyroid
+392,732,mononessa,Birth Control
+393,734,differin,Acne
+394,735,ibandronate,Osteoporosis
+395,741,zithromax,Sinusitis
+396,742,compazine,Anxiety
+397,747,topamax,Migraine Prevention
+398,754,ustekinumab,Psoriasis
+399,755,minocycline,Acne
+400,759,ultram er,Pain
+401,760,nortriptyline,Irritable Bowel Syndrome
+402,761,pregabalin,Reflex Sympathetic Dystrophy Syndrome
+403,763,suprep bowel prep kit,Bowel Preparation
+404,765,armour thyroid,"Hypothyroidism, After Thyroid Removal"
+405,768,jolessa,Birth Control
+406,770,mirvaso,Rosacea
+407,775,atralin,Acne
+408,777,crestor,High Cholesterol
+409,778,rozerem,Insomnia
+410,780,cryselle,Birth Control
+411,782,sucralfate,GERD
+412,783,efinaconazole,"Onychomycosis, Toenail"
+413,785,cetirizine,Urticaria
+414,788,amoxicillin,Urinary Tract Infection
+415,790,soma,Muscle Spasm
+416,797,neupro,Restless Legs Syndrome
+417,804,valacyclovir,"Herpes Simplex, Suppression"
+418,805,toprol-xl,High Blood Pressure
+419,806,sodium oxybate,Narcolepsy
+420,808,mesalamine,Ulcerative Colitis
+421,809,orlistat,Obesity
+422,810,butorphanol,Pain
+423,812,humatrope,Adult Human Growth Hormone Deficiency
+424,815,diltiazem,Atrial Fibrillation
+425,817,hydrocodone,Pain
+426,820,ritalin,ADHD
+427,821,kapvay,ADHD
+428,823,prozac,Anxiety and Stress
+429,828,vicodin,Pain
+430,832,falmina,Polycystic Ovary Syndrome
+431,833,relafen,Back Pain
+432,835,restoril,Insomnia
+433,836,frovatriptan,Migraine
+434,837,losartan,High Blood Pressure
+435,839,sharobel,Birth Control
+436,845,xyrem,Narcolepsy
+437,849,apri,Birth Control
+438,851,ella,Emergency Contraception
+439,855,spiriva,"COPD, Maintenance"
+440,856,tasigna,Chronic Myelogenous Leukemia
+441,858,dupixent,Eczema
+442,859,lorazepam,Insomnia
+443,860,cyproheptadine,Anorexia
+444,863,repatha,High Cholesterol
+445,864,docusate,Constipation
+446,870,hydrochlorothiazide,High Blood Pressure
+447,877,scopolamine,Motion Sickness
+448,886,flurbiprofen,Period Pain
+449,889,femara,"Breast Cancer, Adjuvant"
+450,892,methotrexate,Psoriasis
+451,895,hypercare,Hyperhidrosis
+452,896,epinephrine,"Asthma, acute"
+453,907,brimonidine / timolol,Glaucoma
+454,909,mucinex d,Cough and Nasal Congestion
+455,910,azor,High Blood Pressure
+456,912,voltaren,Pain
+457,918,vortioxetine,Major Depressive Disorde
+458,920,velivet,Birth Control
+459,923,necon 1 / 35,Birth Control
+460,924,seroquel xr,Bipolar Disorde
+461,925,detrol la,Urinary Incontinence
+462,926,sporanox,"Onychomycosis, Toenail"
+463,931,febuxostat,Gout
+464,934,eluxadoline,Irritable Bowel Syndrome
+465,936,neurontin,Pain
+466,937,ondansetron,Nausea/Vomiting
+467,947,gardasil,Human Papillomavirus Prophylaxis
+468,948,avastin,Glioblastoma Multiforme
+469,952,paliperidone,Schizophrenia
+470,954,nora-be,Birth Control
+471,958,penicillin v potassium,Bacterial Infection
+472,965,tofacitinib,Rheumatoid Arthritis
+473,968,st. john's wort,Depression
+474,970,rythmol sr,Atrial Fibrillation
+475,971,vytorin,High Cholesterol
+476,972,dilaudid,Pain
+477,975,vilazodone,Anxiety
+478,976,librium,Alcohol Withdrawal
+479,979,duac,Acne
+480,982,dapsone,Acne
+481,989,vicodin es,Pain
+482,991,hydromorphone,Pain
+483,992,zyban,Smoking Cessation
+484,995,ranitidine,GERD
+485,997,arava,Rheumatoid Arthritis
+486,1001,adderall,ADHD
+487,1004,ruconest,Hereditary Angioedema
+488,1006,pseudoephedrine / triprolidine,Cold Symptoms
+489,1008,etodolac,Osteoarthritis
+490,1012,emsam,Depression
+491,1016,diovan,High Blood Pressure
+492,1022,ammonium lactate,Dry Skin
+493,1025,desmopressin,Diabetes Insipidus
+494,1029,zepatier,Hepatitis C
+495,1030,magnesium hydroxide,Constipation
+496,1036,butrans,Chronic Pain
+497,1038,botox,Migraine
+498,1041,azelastine,Allergic Rhinitis
+499,1042,xalkori,Non-Small Cell Lung Cance
+500,1043,zyvox,Methicillin-Resistant Staphylococcus Aureus Infection
+501,1047,rocephin,Urinary Tract Infection
+502,1048,kyleena,Birth Control
+503,1056,toujeo,"Diabetes, Type 2"
+504,1058,dexlansoprazole,GERD
+505,1063,brexpiprazole,Major Depressive Disorde
+506,1064,roxicodone intensol,Pain
+507,1068,reglan,Migraine
+508,1071,divalproex sodium,Bipolar Disorde
+509,1076,tindamax,Bacterial Vaginitis
+510,1081,camrese,Birth Control
+511,1085,metrogel-vaginal,Bacterial Vaginitis
+512,1087,tadalafil,Erectile Dysfunction
+513,1088,flecainide,Atrial Fibrillation
+514,1090,junel fe 1.5 / 30,Birth Control
+515,1091,flagyl,Bacterial Infection
+516,1098,ovace plus,Seborrheic Dermatitis
+517,1100,secobarbital,Insomnia
+518,1103,empagliflozin / linagliptin,"Diabetes, Type 2"
+519,1105,raltegravir,HIV Infection
+520,1111,ampyra,Multiple Sclerosis
+521,1117,celebrex,Osteoarthritis
+522,1119,colchicine,"Gout, Acute"
+523,1120,geodon,Bipolar Disorde
+524,1122,aluminum chloride hexahydrate,Hyperhidrosis
+525,1134,tryptophan,Insomnia
+526,1135,myrbetriq,Overactive Bladde
+527,1136,malarone,Malaria Prevention
+528,1137,fetzima,Major Depressive Disorde
+529,1138,omeprazole,Erosive Esophagitis
+530,1139,fluoride,Prevention of Dental Caries
+531,1140,jardiance,"Diabetes, Type 2"
+532,1142,turmeric,Herbal Supplementation
+533,1146,desogestrel / ethinyl estradiol,Birth Control
+534,1148,secukinumab,Plaque Psoriasis
+535,1149,ethinyl estradiol / norgestrel,Abnormal Uterine Bleeding
+536,1151,nifedipine,Raynaud's Syndrome
+537,1153,celexa,Depression
+538,1158,prednisone,Asthma
+539,1159,methocarbamol,Muscle Spasm
+540,1162,haldol decanoate,Psychosis
+541,1163,beyaz,Birth Control
+542,1172,taclonex,Plaque Psoriasis
+543,1176,decadron,Addison's Disease
+544,1178,vardenafil,Erectile Dysfunction
+545,1184,oxazepam,Anxiety
+546,1187,dexmethylphenidate,ADHD
+547,1195,firmagon,Prostate Cance
+548,1200,phenazopyridine,Dysuria
+549,1202,tiotropium,"COPD, Maintenance"
+550,1203,savella,ibromyalgia
+551,1209,cataflam,Osteoarthritis
+552,1213,cobicistat / elvitegravir / emtricitabine / tenofovir,HIV Infection
+553,1214,ramipril,High Blood Pressure
+554,1216,relistor,Opioid-Induced Constipation
+555,1217,paxil,Depression
+556,1220,stelara,Psoriasis
+557,1221,cambia,Migraine
+558,1222,ezetimibe,High Cholesterol
+559,1227,mefenamic acid,Period Pain
+560,1228,budesonide / formoterol,moterol)
+561,1231,doryx,Acne
+562,1242,dymista,Allergic Rhinitis
+563,1245,omalizumab,"Asthma, Maintenance"
+564,1247,lunesta,Insomnia
+565,1257,mometasone,Eczema
+566,1263,phenylephrine,Nasal Congestion
+567,1268,vesicare,Overactive Bladde
+568,1272,kapidex,GERD
+569,1274,errin,Birth Control
+570,1275,lomotil,Diarrhea
+571,1277,clomid,emale Infertility
+572,1278,clozapine,Schizophrenia
+573,1279,olopatadine,Seasonal Allergic Conjunctivitis
+574,1286,narcan injection,Opioid Overdose
+575,1287,mirabegron,Overactive Bladde
+576,1289,wellbutrin sr,ADHD
+577,1302,tinidazole,Bacterial Vaginitis
+578,1306,asenapine,Post Traumatic Stress Disorde
+579,1310,penicillin vk,Bacterial Infection
+580,1321,oxymetazoline,Rosacea
+581,1322,epiceram,Dry Skin
+582,1336,temazepam,Insomnia
+583,1337,oxybutynin,Overactive Bladde
+584,1342,armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome
+585,1345,epclusa,Hepatitis C
+586,1348,dalfampridine,Multiple Sclerosis
+587,1349,onabotulinumtoxina,Migraine Prevention
+588,1354,doxylamine / pyridoxine,Nausea/Vomiting of Pregnancy
+589,1356,estarylla,Birth Control
+590,1367,vancomycin,Bacterial Infection
+591,1368,naproxen / sumatriptan,Migraine
+592,1369,fastin,Weight Loss
+593,1370,protonix,Stomach Ulce
+594,1371,bazedoxifene / conjugated estrogens,Hot Flashes
+595,1376,chloral hydrate,Insomnia
+596,1379,lialda,"Ulcerative Colitis, Active"
+597,1383,maxalt,Migraine
+598,1392,denosumab,Osteoporosis
+599,1393,boniva,Osteoporosis
+600,1395,sklice,Head Lice
+601,1403,acetazolamide,Pseudotumor Cerebri
+602,1404,clinpro 5000,Prevention of Dental Caries
+603,1427,zelapar,Parkinson's Disease
+604,1453,desloratadine,Allergic Rhinitis
+605,1454,cyclobenzaprine,ibromyalgia
+606,1457,docosanol,Herpes Simplex
+607,1458,acetaminophen,Sciatica
+608,1460,chaparral,Cance
+609,1465,hyaluronan,Osteoarthritis
+610,1468,polyethylene glycol 3350 with electrolytes,Bowel Preparation
+611,1471,mestranol / norethindrone,Abnormal Uterine Bleeding
+612,1480,melatonin,Insomnia
+613,1488,symbicort,"Asthma, Maintenance"
+614,1491,lutera,Birth Control
+615,1497,emollients,Dry Skin
+616,1498,colesevelam,"Diarrhea, Chronic"
+617,1504,zyclara,Keratosis
+618,1508,aspirin / caffeine,Pain
+619,1511,abreva,Herpes Simplex
+620,1517,isocarboxazid,Depression
+621,1518,correctol,Constipation
+622,1522,plecanatide,Chronic Idiopathic Constipation
+623,1528,xarelto,Atrial Fibrillation
+624,1531,prevacid,GERD
+625,1535,simvastatin,High Cholesterol
+626,1541,carbatrol,Epilepsy
+627,1548,dapagliflozin,"Diabetes, Type 2"
+628,1553,tresiba,"Diabetes, Type 2"
+629,1557,oracea,Rosacea
+630,1558,abilify,Autism
+631,1564,meperidine,Pain
+632,1565,tamoxifen,"Breast Cancer, Adjuvant"
+633,1566,harvoni,Hepatitis C
+634,1573,imiquimod,Basal Cell Carcinoma
+635,1583,trospium,Overactive Bladde
+636,1586,limbitrol,Depression
+637,1590,zegerid,GERD
+638,1599,diethylpropion,Obesity
+639,1610,limbrel,Osteoarthritis
+640,1613,verapamil,Arrhythmia
+641,1615,premarin,Primary Ovarian Failure
+642,1618,pentazocine,Pain
+643,1619,apremilast,Psoriatic Arthritis
+644,1623,ciclesonide,"Asthma, Maintenance"
+645,1629,canagliflozin,"Diabetes, Type 2"
+646,1630,megestrol,Weight Loss
+647,1638,loseasonique,Birth Control
+648,1644,otezla,Plaque Psoriasis
+649,1649,zenzedi,ADHD
+650,1660,phosphorated carbohydrate solution,Nausea/Vomiting
+651,1662,"influenza virus vaccine, live, trivalent",Influenza Prophylaxis
+652,1664,deplin,Depression
+653,1666,methylprednisolone,"Gout, Acute"
+654,1672,invega,Bipolar Disorde
+655,1676,cutar,Seborrheic Dermatitis
+656,1680,serzone,Depression
+657,1685,biaxin xl,Pneumonia
+658,1686,coreg,Heart Failure
+659,1690,ortho cyclen,Birth Control
+660,1691,lorcet 10 / 650,Back Pain
+661,1696,letrozole,"Breast Cancer, Adjuvant"
+662,1705,cefuroxime,Sinusitis
+663,1716,sectral,High Blood Pressure
+664,1733,belladonna / opium,Overactive Bladde
+665,1737,flomax,Overactive Bladde
+666,1738,my way,Emergency Contraception
+667,1747,belsomra,Insomnia
+668,1749,adapalene,Acne
+669,1757,promethazine,Sedation
+670,1759,fentanyl transdermal system,Chronic Pain
+671,1769,desoxyn,ADHD
+672,1780,tegretol,Dystonia
+673,1787,oseltamivir,Influenza
+674,1789,kombiglyze xr,"Diabetes, Type 2"
+675,1794,minoxidil,Alopecia
+676,1800,enbrel,Ankylosing Spondylitis
+677,1809,adalimumab,Plaque Psoriasis
+678,1842,xulane,Birth Control
+679,1844,elavil,Insomnia
+680,1845,endocet,Pain
+681,1849,unisom sleepgels,Insomnia
+682,1851,invokana,"Diabetes, Type 2"
+683,1854,naphazoline,Nasal Congestion
+684,1859,hydrochlorothiazide / telmisartan,High Blood Pressure
+685,1861,mycophenolate mofetil,Myasthenia Gravis
+686,1866,eucrisa,Atopic Dermatitis
+687,1868,biltricide,Schistosoma japonicum
+688,1881,bystolic,High Blood Pressure
+689,1883,ibuprofen / pseudoephedrine,Sinus Symptoms
+690,1887,alesse,Birth Control
+691,1900,bisoprolol / hydrochlorothiazide,High Blood Pressure
+692,1905,fexofenadine,Allergic Rhinitis
+693,1911,fentora,Pain
+694,1912,guaifenesin,Cough
+695,1914,modafinil,Hypersomnia
+696,1922,kadian,Pain
+697,1926,dexamethasone,Asthma
+698,1927,atropine / diphenoxylate,Diarrhea
+699,1933,metformin / sitagliptin,min / sitagliptin)
+700,1935,fluorouracil,Keratosis
+701,1939,clobetasol,Dermatitis
+702,1940,commit,Smoking Cessation
+703,1943,tri-lo-sprintec,Birth Control
+704,1952,guaifenesin / phenylephrine,Cough and Nasal Congestion
+705,1957,dexbrompheniramine / pseudoephedrine,Allergic Rhinitis
+706,1969,freshkote,Eye Redness
+707,1974,racepinephrine,"Asthma, acute"
+708,1977,keflex,Upper Respiratory Tract Infection
+709,1989,fluticasone,Allergic Rhinitis
+710,1990,levemir,"Diabetes, Type 2"
+711,2005,alprostadil,Erectile Dysfunction
+712,2008,carbidopa / levodopa,Restless Legs Syndrome
+713,2011,tranexamic acid,Menorrhagia
+714,2013,esomeprazole,GERD
+715,2020,voltaren gel,Pain
+716,2035,adderall xr,ADHD
+717,2047,hydrocortisone,Skin Rash
+718,2049,remeron,Anxiety
+719,2051,genvoya,HIV Infection
+720,2052,podofilox,Condylomata Acuminata
+721,2057,tri-previfem,Birth Control
+722,2065,atorvastatin,High Cholesterol
+723,2072,carisoprodol,Muscle Spasm
+724,2073,gildess fe 1.5 / 30,Acne
+725,2077,viagra,Erectile Dysfunction
+726,2084,famotidine / ibuprofen,NSAID-Induced Ulcer Prophylaxis
+727,2090,selenium sulfide,Tinea Versicol
+728,2100,aubra,Birth Control
+729,2103,tocilizumab,Rheumatoid Arthritis
+730,2119,lacosamide,Seizures
+731,2131,axiron,"Hypogonadism, Male"
+732,2137,finacea,Rosacea
+733,2147,hydrocodone / ibuprofen,Pain
+734,2149,vantin,Sinusitis
+735,2156,silenor,Insomnia
+736,2164,rivaroxaban,Deep Vein Thrombosis
+737,2165,motrin,Pain
+738,2170,cholestyramine,Irritable Bowel Syndrome
+739,2176,ketamine,Anesthesia
+740,2180,flurazepam,Insomnia
+741,2185,aubagio,Multiple Sclerosis
+742,2189,nebivolol,High Blood Pressure
+743,2191,vandazole,Bacterial Vaginitis
+744,2198,clopidogrel,Heart Attack
+745,2212,imuran,Crohn's Disease
+746,2213,avanafil,Erectile Dysfunction
+747,2218,robaxin-750,Muscle Spasm
+748,2221,hydrochlorothiazide / lisinopril,High Blood Pressure
+749,2224,targiniq er,Pain
+750,2227,drospirenone / ethinyl estradiol / levomefolate calcium,Birth Control
+751,2229,breo ellipta,Asthma
+752,2230,zonisamide,Migraine Prevention
+753,2232,diamox,Pseudotumor Cerebri
+754,2235,warfarin,"Pulmonary Embolism, Recurrent Event"
+755,2236,amlodipine,High Blood Pressure
+756,2238,midazolam,Light Sedation
+757,2242,parnate,Depression
+758,2243,next choice,Emergency Contraception
+759,2260,gleevec,Acute Lymphoblastic Leukemia
+760,2264,movantik,Opioid-Induced Constipation
+761,2270,cabergoline,Hyperprolactinemia
+762,2273,opcicon one-step,Emergency Contraception
+763,2277,vivelle-dot,Postmenopausal Symptoms
+764,2281,estrace vaginal cream,Atrophic Vaginitis
+765,2283,trihexyphenidyl,Extrapyramidal Reaction
+766,2284,acetaminophen / propoxyphene,Pain
+767,2296,invega sustenna,Schizophrenia
+768,2305,mephobarbital,Epilepsy
+769,2313,nexium,GERD
+770,2319,insulin glargine,"Diabetes, Type 2"
+771,2329,hydromet,Cough
+772,2332,tenofovir,Hepatitis B
+773,2345,chlordiazepoxide,Alcohol Withdrawal
+774,2347,taltz,Plaque Psoriasis
+775,2351,blisovi 24 fe,Birth Control
+776,2355,campral,Alcohol Dependence
+777,2357,loratadine / pseudoephedrine,Allergic Rhinitis
+778,2367,sodium biphosphate / sodium phosphate,Bowel Preparation
+779,2373,risedronate,Osteoporosis
+780,2396,lenalidomide,Multiple Myeloma
+781,2401,klor-con,Prevention of Hypokalemia
+782,2408,furosemide,Edema
+783,2418,exemestane,Breast Cance
+784,2422,diclegis,Nausea/Vomiting of Pregnancy
+785,2426,monodox,Acne
+786,2437,bethanechol,Urinary Retention
+787,2442,portia,Birth Control
+788,2444,eliquis,Prevention of Thromboembolism in Atrial Fibrillation
+789,2447,prochlorperazine,Nausea/Vomiting
+790,2467,diclofenac / misoprostol,Sciatica
+791,2468,amlodipine / benazepril,High Blood Pressure
+792,2475,adzenys xr-odt,ADHD
+793,2481,natalizumab,Multiple Sclerosis
+794,2501,aldactone,Acne
+795,2508,benadryl,Nausea/Vomiting
+796,2515,niaspan,High Cholesterol
+797,2525,citric acid / magnesium oxide / sodium picosulfate,Bowel Preparation
+798,2535,fioricet,Headache
+799,2539,clonidine,Opiate Withdrawal
+800,2540,lactulose,"Constipation, Acute"
+801,2548,guaifenesin / pseudoephedrine,Cough and Nasal Congestion
+802,2550,r-tanna,Allergic Rhinitis
+803,2551,jublia,"Onychomycosis, Toenail"
+804,2564,atenolol,High Blood Pressure
+805,2567,solifenacin,Overactive Bladde
+806,2581,lidoderm,Pain
+807,2587,bismuth subcitrate potassium / metronidazole / tetracycline,Helicobacter Pylori Infection
+808,2601,nicotrol inhaler,Smoking Cessation
+809,2602,levlen,Endometriosis
+810,2603,asacol,Ulcerative Colitis
+811,2604,viorele,Birth Control
+812,2606,depakote er,Bipolar Disorde
+813,2614,fortesta,"Hypogonadism, Male"
+814,2616,silvadene,"Burns, External"
+815,2627,estring,Atrophic Vaginitis
+816,2630,duragesic,Pain
+817,2632,xyzal,Allergic Rhinitis
+818,2652,artane,Extrapyramidal Reaction
+819,2657,tafinlar,"Melanoma, Metastatic"
+820,2659,orencia,Rheumatoid Arthritis
+821,2665,lyza,Birth Control
+822,2669,tegretol xr,Trigeminal Neuralgia
+823,2672,ceftin,Bronchitis
+824,2673,tambocor,Atrial Flutte
+825,2681,previfem,Birth Control
+826,2683,duavee,Hot Flashes
+827,2699,microgestin 1 / 20,Birth Control
+828,2704,ocular lubricant,Dry Eye Disease
+829,2727,vascepa,Hypertriglyceridemia
+830,2740,protonix iv,Barrett's Esophagus
+831,2741,hc-derma-pax,Pruritus
+832,2760,welchol,High Cholesterol
+833,2764,tirosint,Hashimoto's disease
+834,2768,sandostatin,Carcinoid Tum
+835,2771,patanol,Seasonal Allergic Conjunctivitis
+836,2774,olmesartan,High Blood Pressure
+837,2775,xolair,"Asthma, Maintenance"
+838,2776,irbesartan,High Blood Pressure
+839,2779,lidocaine,Pain
+840,2781,librax,Irritable Bowel Syndrome
+841,2811,chlorthalidone,High Blood Pressure
+842,2822,naprelan,Muscle Pain
+843,2836,prolia,Osteoporosis
+844,2838,dolutegravir,HIV Infection
+845,2845,cefpodoxime,Bladder Infection
+846,2848,clocortolone,Psoriasis
+847,2853,ultram,Back Pain
+848,2862,afrezza,"Diabetes, Type 2"
+849,2878,tysabri,Multiple Sclerosis
+850,2881,lactobacillus acidophilus,Irritable Bowel Syndrome
+851,2883,oxaliplatin,Colorectal Cance
+852,2886,mexiletine,Arrhythmia
+853,2888,halcion,Insomnia
+854,2891,somatropin,Adult Human Growth Hormone Deficiency
+855,2893,enjuvia,Postmenopausal Symptoms
+856,2921,"multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation
+857,2922,omnicef,Otitis Media
+858,2933,embeda,Pain
+859,2940,triamcinolone,Atopic Dermatitis
+860,2948,uloric,Gout
+861,2954,caffeine,Hypersomnia
+862,2957,arthrotec,Sciatica
+863,2960,sodium hyaluronate,Osteoarthritis
+864,2965,zarah,Birth Control
+865,2973,benicar hct,High Blood Pressure
+866,2975,hydrochlorothiazide / spironolactone,Edema
+867,2977,sumavel dosepro,Migraine
+868,2999,immune globulin subcutaneous,Primary Immunodeficiency Syndrome
+869,3002,certolizumab,Rheumatoid Arthritis
+870,3004,aftera,Emergency Contraception
+871,3013,pemoline,ADHD
+872,3017,delsym,Cough
+873,3024,capzasin-hp,Osteoarthritis
+874,3033,topicort,Eczema
+875,3041,carvedilol,Atrial Fibrillation
+876,3043,actiq,Breakthrough Pain
+877,3049,phendimetrazine,Obesity
+878,3053,mysoline,Seizures
+879,3056,acamprosate,Alcohol Dependence
+880,3061,prevnar 13,Pneumococcal Disease Prophylaxis
+881,3063,doxazosin,High Blood Pressure
+882,3067,vistaril,Anxiety
+883,3085,conjugated estrogens,Postmenopausal Symptoms
+884,3089,rapaflo,Benign Prostatic Hyperplasia
+885,3094,vitamin b2,Migraine Prevention
+886,3107,acthar,Multiple Sclerosis
+887,3109,memantine,Migraine
+888,3120,heather,Birth Control
+889,3122,apixaban,Prevention of Thromboembolism in Atrial Fibrillation
+890,3127,patanase,Allergic Rhinitis
+891,3130,januvia,"Diabetes, Type 2"
+892,3132,nicotine,Smoking Cessation
+893,3139,s-adenosylmethionine,Depression
+894,3157,zetia,High Cholesterol
+895,3162,feldene,Rheumatoid Arthritis
+896,3166,pradaxa,Prevention of Thromboembolism in Atrial Fibrillation
+897,3181,abacavir / dolutegravir / lamivudine,HIV Infection
+898,3186,dextromethorphan / quinidine,Pseudobulbar Affect
+899,3199,acetaminophen / tramadol,Pain
+900,3201,tazarotene,Acne
+901,3202,opcon-a,Eye Redness/Itching
+902,3210,ketoprofen,Pain
+903,3216,golimumab,Rheumatoid Arthritis
+904,3218,kava,Anxiety and Stress
+905,3219,loestrin fe 1.5 / 30,Birth Control
+906,3235,letairis,Pulmonary Hypertension
+907,3249,coartem,Malaria
+908,3265,complera,HIV Infection
+909,3283,nasacort,Allergic Rhinitis
+910,3296,pramoxine,Hemorrhoids
+911,3316,clindesse,Bacterial Vaginitis
+912,3318,cozaar,High Blood Pressure
+913,3320,multivitamin,Dietary Supplementation
+914,3327,chlorpromazine,Light Sedation
+915,3328,protopic,Atopic Dermatitis
+916,3330,migranal,Migraine
+917,3333,alli,Obesity
+918,3338,teriparatide,Osteoporosis
+919,3340,dihydroergotamine,Migraine
+920,3356,potassium chloride,Hypokalemia
+921,3363,chateal,Birth Control
+922,3365,quasense,Abnormal Uterine Bleeding
+923,3370,anafranil,Panic Disorde
+924,3378,advair diskus,"Asthma, Maintenance"
+925,3382,nefazodone,Depression
+926,3387,ditropan,Urinary Incontinence
+927,3388,taytulla,Birth Control
+928,3397,kenalog,Atopic Dermatitis
+929,3400,tenormin,Anxiety
+930,3417,rebif,Multiple Sclerosis
+931,3418,copaxone,Multiple Sclerosis
+932,3421,generess fe,Birth Control
+933,3426,hydroxyurea,"Anemia, Sickle Cell"
+934,3432,retisert,Uveitis
+935,3443,alfuzosin,Not Listed / Othe
+936,3444,penciclovir,Cold Sores
+937,3450,betamethasone / calcipotriene,Plaque Psoriasis
+938,3454,brisdelle,Hot Flashes
+939,3479,dyanavel xr,ADHD
+940,3480,allerx dose pack df,Rhinitis
+941,3488,deltasone,Sinusitis
+942,3494,amaryl,"Diabetes, Type 2"
+943,3501,soolantra,Rosacea
+944,3508,mucinex,ibromyalgia
+945,3516,desyrel,ibromyalgia
+946,3520,levocetirizine,Allergies
+947,3528,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,HIV Infection
+948,3542,lopinavir / ritonavir,HIV Infection
+949,3546,byetta,"Diabetes, Type 2"
+950,3569,catapres-tts,High Blood Pressure
+951,3580,chlorpheniramine,Allergic Rhinitis
+952,3581,sustiva,HIV Infection
+953,3590,zaleplon,Insomnia
+954,3603,farxiga,"Diabetes, Type 2"
+955,3611,janumet,"Diabetes, Type 2"
+956,3613,lo / ovral-28,Birth Control
+957,3639,docetaxel,Breast Cance
+958,3645,lantus solostar,"Diabetes, Type 2"
+959,3649,oxistat,Tinea Corporis
+960,3670,selegiline,Depression
+961,3673,sunitinib,Renal Cell Carcinoma
+962,3680,levorphanol,Pain
+963,3684,cheratussin ac,Cough
+964,3686,umeclidinium / vilanterol,COPD
+965,3690,erlotinib,Non-Small Cell Lung Cance
+966,3693,forteo,Osteoporosis
+967,3698,seasonale,Birth Control
+968,3711,actemra,Rheumatoid Arthritis
+969,3712,urso forte,Biliary Cirrhosis
+970,3731,aspirin,Back Pain
+971,3767,zyprexa zydis,Bipolar Disorde
+972,3782,cosentyx,Plaque Psoriasis
+973,3800,miralax,Constipation
+974,3810,esgic,Headache
+975,3815,rituximab,Non-Hodgkin's Lymphoma
+976,3818,fluticasone / vilanterol,Asthma
+977,3833,tacrolimus,Atopic Dermatitis
+978,3849,supartz,Osteoarthritis
+979,3854,tenuate,Obesity
+980,3868,beclomethasone,"Asthma, Maintenance"
+981,3875,fenofibric acid,High Cholesterol
+982,3890,panlor ss,Pain
+983,3914,methylnaltrexone,"Constipation, Drug Induced"
+984,3925,benicar,High Blood Pressure
+985,3933,sofosbuvir / velpatasvir,Hepatitis C
+986,3936,methadose,Pain
+987,3938,calcitriol,Psoriasis
+988,3942,emtricitabine / rilpivirine / tenofovir,HIV Infection
+989,3955,didrex,Obesity
+990,3958,dextroamphetamine,ADHD
+991,3974,codeine,Pain
+992,3978,kerydin,"Onychomycosis, Toenail"
+993,3980,requip,Restless Legs Syndrome
+994,3989,arimidex,Breast Cance
+995,3990,pylera,Helicobacter Pylori Infection
+996,4029,zohydro er,Pain
+997,4035,octreotide,Carcinoid Tum
+998,4040,golytely,Bowel Preparation
+999,4041,eszopiclone,Insomnia
+1000,4053,bicalutamide,Prostate Cance
+1001,4074,benzoyl peroxide / erythromycin,Acne
+1002,4078,estradiol / levonorgestrel,Postmenopausal Symptoms
+1003,4082,evamist,Postmenopausal Symptoms
+1004,4086,glipizide,"Diabetes, Type 2"
+1005,4096,dicyclomine,Irritable Bowel Syndrome
+1006,4099,tarina fe 1 / 20,Birth Control
+1007,4102,trileptal,Bipolar Disorde
+1008,4126,magnesium citrate,Constipation
+1009,4135,rosuvastatin,"High Cholesterol, Familial Heterozygous"
+1010,4137,primidone,Benign Essential Trem
+1011,4148,yasmin,Birth Control
+1012,4152,proair hfa,"COPD, Maintenance"
+1013,4154,cefprozil,Bronchitis
+1014,4161,comtan,Parkinson's Disease
+1015,4165,omega-3 polyunsaturated fatty acids,Hypertriglyceridemia
+1016,4180,oleptro,Depression
+1017,4190,atacand,High Blood Pressure
+1018,4206,xanax xr,Anxiety
+1019,4218,human papillomavirus vaccine,Human Papillomavirus Prophylaxis
+1020,4223,amoxil,Sinusitis
+1021,4249,clobex,Psoriasis
+1022,4258,bepotastine,"Conjunctivitis, Allergic"
+1023,4261,propafenone,Atrial Fibrillation
+1024,4264,siliq,Plaque Psoriasis
+1025,4281,prezcobix,HIV Infection
+1026,4282,telmisartan,High Blood Pressure
+1027,4295,cloderm,Atopic Dermatitis
+1028,4303,roxicodone,Pain
+1029,4308,ubiquinone,Dietary Supplementation
+1030,4317,robaxin,Muscle Spasm
+1031,4329,sitavig,Cold Sores
+1032,4344,dulcolax laxative,Constipation
+1033,4348,flector patch,Pain
+1034,4353,ribavirin,Hepatitis C
+1035,4363,ultram odt,Chronic Pain
+1036,4367,quinine,Nocturnal Leg Cramps
+1037,4382,aluminum hydroxide / magnesium trisilicate,GERD
+1038,4396,ipratropium,"COPD, Maintenance"
+1039,4399,dexchlorpheniramine,Allergic Reactions
+1040,4408,ephedrine / guaifenesin,Cold Symptoms
+1041,4409,claravis,Acne
+1042,4436,gavilyte-c,Bowel Preparation
+1043,4440,hydroxyamphetamine / tropicamide,Pupillary Dilation
+1044,4451,mct,Dietary Supplementation
+1045,4475,onfi,Lennox-Gastaut Syndrome
+1046,4484,anoro ellipta,COPD
+1047,4500,hylan g-f 20,Osteoarthritis
+1048,4521,acanya,Acne
+1049,4524,vivitrol,Opiate Dependence
+1050,4526,gelnique,Urinary Incontinence
+1051,4554,entyvio,Crohn's Disease
+1052,4562,dramamine,Motion Sickness
+1053,4572,stribild,HIV Infection
+1054,4580,desipramine,Depression
+1055,4582,biaxin,Bronchitis
+1056,4587,casodex,Prostate Cance
+1057,4590,maraviroc,HIV Infection
+1058,4608,gablofen,Cerebral Spasticity
+1059,4610,oxycontin,Chronic Pain
+1060,4632,ivermectin,Rosacea
+1061,4634,chlorpheniramine / hydrocodone,Cough
+1062,4648,egrifta,Lipodystrophy
+1063,4660,propecia,Androgenetic Alopecia
+1064,4670,vagifem,Atrophic Vaginitis
+1065,4674,barium sulfate,Computed Tomography
+1066,4682,provigil,Obstructive Sleep Apnea/Hypopnea Syndrome
+1067,4684,ursodiol,Biliary Cirrhosis
+1068,4685,cardizem la,High Blood Pressure
+1069,4688,zofran odt,Nausea/Vomiting
+1070,4701,cholecalciferol,Vitamin D Deficiency
+1071,4720,tafluprost,"Glaucoma, Open Angle"
+1072,4722,singulair,Asthma
+1073,4731,granisetron,"Nausea/Vomiting, Chemotherapy Induced"
+1074,4746,phenytoin,Seizures
+1075,4757,gilotrif,Non-Small Cell Lung Cance
+1076,4781,afrin,Nasal Congestion
+1077,4786,exforge,High Blood Pressure
+1078,4804,benzaclin,Acne
+1079,4821,xeloda,Colorectal Cance
+1080,4823,vectical,Psoriasis
+1081,4837,sancuso,"Nausea/Vomiting, Chemotherapy Induced"
+1082,4849,loestrin fe 1 / 20,Acne
+1083,4876,zestril,High Blood Pressure
+1084,4886,prednisolone,"Asthma, acute"
+1085,4915,dasatinib,Chronic Myelogenous Leukemia
+1086,4919,pimtrea,Birth Control
+1087,4920,doxy 100,Upper Respiratory Tract Infection
+1088,4921,tranxene,Anxiety
+1089,4938,codeine / promethazine,Cough
+1090,4941,xylometazoline,Nasal Congestion
+1091,4943,acetaminophen / pamabrom,Back Pain
+1092,4947,loryna,Acne
+1093,4951,lysine,"Herpes Simplex, Suppression"
+1094,4953,ritalin-sr,Narcolepsy
+1095,4955,emla,Anesthesia
+1096,4962,nubain,Pain
+1097,4975,digoxin,Atrial Fibrillation
+1098,4980,clarifoam ef,Rosacea
+1099,4988,colchicine / probenecid,Gouty Arthritis
+1100,4991,hyoscyamine / methenamine / methylene blue / phenyl salicylate,Urinary Tract Infection
+1101,4992,anexsia,Pain
+1102,5004,unisom sleeptabs,Insomnia
+1103,5023,nuox,Acne
+1104,5031,bonine,Motion Sickness
+1105,5050,synvisc-one,Osteoarthritis
+1106,5052,iloperidone,Bipolar Disorde
+1107,5091,synvisc,Osteoarthritis
+1108,5093,septra,Bronchitis
+1109,5103,vestura,Birth Control
+1110,5113,cerezyme,Gaucher Disease
+1111,5114,stadol,Pain
+1112,5120,acetaminophen / chlorpheniramine / phenylephrine,Cold Symptoms
+1113,5132,sominex,Insomnia
+1114,5144,plaquenil,Systemic Lupus Erythematosus
+1115,5146,sulfacetamide sodium,Seborrheic Dermatitis
+1116,5149,nortrel 1 / 35,Birth Control
+1117,5186,perampanel,Epilepsy
+1118,5206,gianvi,Menstrual Disorders
+1119,5208,methadone diskets,Chronic Pain
+1120,5210,pazopanib,Renal Cell Carcinoma
+1121,5225,fondaparinux,Deep Vein Thrombosis
+1122,5241,septra ds,Bacterial Infection
+1123,5248,robitussin coughgels long-acting,Cough
+1124,5258,chlordiazepoxide / clidinium,Irritable Bowel Syndrome
+1125,5296,pancrelipase,Cystic Fibrosis
+1126,5301,acetaminophen / diphenhydramine,Headache
+1127,5306,metamucil,Irritable Bowel Syndrome
+1128,5307,sulfazine,Ulcerative Colitis
+1129,5322,skelaxin,Muscle Spasm
+1130,5340,imipramine,Depression
+1131,5351,tessalon perles,Cough
+1132,5356,teriflunomide,Multiple Sclerosis
+1133,5359,pennsaid,Osteoarthritis
+1134,5363,hyomax sl,Irritable Bowel Syndrome
+1135,5395,zymine,Allergies
+1136,5400,esomeprazole / naproxen,Osteoarthritis
+1137,5418,allopurinol,Gout
+1138,5419,disulfiram,Alcohol Dependence
+1139,5456,difluprednate,Uveitis
+1140,5463,methylin er,ADHD
+1141,5473,venofer,Iron Deficiency Anemia
+1142,5474,ascomp with codeine,Headache
+1143,5483,azelaic acid,Rosacea
+1144,5490,thorazine,Hiccups
+1145,5498,dronabinol,"Nausea/Vomiting, Chemotherapy Induced"
+1146,5499,formoterol,Bronchospasm Prophylaxis
+1147,5501,prefrin,Eye Redness
+1148,5504,verdeso,Dermatitis
+1149,5511,tobramycin,"Conjunctivitis, Bacterial"
+1150,5521,belbuca,Chronic Pain
+1151,5529,safyral,Birth Control
+1152,5530,hyoscyamine,Irritable Bowel Syndrome
+1153,5550,metformin / saxagliptin,min / saxagliptin)
+1154,5552,sinemet,Restless Legs Syndrome
+1155,5575,combivent,"COPD, Maintenance"
+1156,5580,zovirax cream,Cold Sores
+1157,5587,keppra xr,Seizures
+1158,5588,xiidra,Dry Eye Disease
+1159,5596,axid ar,Stomach Ulce
+1160,5624,clobazam,Lennox-Gastaut Syndrome
+1161,5633,cromolyn,"Asthma, Maintenance"
+1162,5655,triumeq,HIV Infection
+1163,5658,pitavastatin,High Cholesterol
+1164,5659,roflumilast,"COPD, Maintenance"
+1165,5679,nitro-dur,High Blood Pressure
+1166,5722,aspirin / caffeine / orphenadrine,Muscle Pain
+1167,5729,rotigotine,Restless Legs Syndrome
+1168,5743,ortho-novum 1 / 35,Birth Control
+1169,5748,cyclosporine,Keratoconjunctivitis Sicca
+1170,5755,isosorbide mononitrate,Heart Failure
+1171,5760,bumex,Edema
+1172,5770,dexedrine,ADHD
+1173,5772,synthroid,Underactive Thyroid
+1174,5782,acetaminophen / codeine,Pain
+1175,5784,zirgan,Herpes Simplex Dendritic Keratitis
+1176,5786,tikosyn,Arrhythmia
+1177,5803,benzoyl peroxide,Acne
+1178,5807,doxylamine,Insomnia
+1179,5815,simply sleep,Insomnia
+1180,5826,insulin lispro,"Diabetes, Type 2"
+1181,5848,caffeine / ergotamine,Migraine
+1182,5860,cariprazine,Bipolar Disorde
+1183,5864,aspirin / caffeine / salicylamide,Pain
+1184,5866,mucinex d maximum strength,Cough and Nasal Congestion
+1185,5876,drixoral cold and allergy,Cold Symptoms
+1186,5884,pemirolast,"Conjunctivitis, Allergic"
+1187,5894,loperamide,Diarrhea
+1188,5897,gralise,Postherpetic Neuralgia
+1189,5904,ziac,High Blood Pressure
+1190,5918,lifitegrast,Dry Eye Disease
+1191,5923,onglyza,"Diabetes, Type 2"
+1192,5933,tyvaso,Pulmonary Hypertension
+1193,5939,rosiglitazone,"Diabetes, Type 2"
+1194,5950,testopel,"Hypogonadism, Male"
+1195,5952,acetaminophen / butalbital / caffeine / codeine,Headache
+1196,5955,subsys,Chronic Pain
+1197,5963,medrol dosepak,Atopic Dermatitis
+1198,5971,prevpac,Helicobacter Pylori Infection
+1199,5980,emetrol,Nausea/Vomiting
+1200,5986,orphenadrine,Muscle Spasm
+1201,5987,lamisil,"Onychomycosis, Toenail"
+1202,5990,topiragen,Seizure Prevention
+1203,5993,imbruvica,Chronic Lymphocytic Leukemia
+1204,6024,albuterol,"Asthma, acute"
+1205,6040,microgestin fe 1.5 / 30,Birth Control
+1206,6048,prandin,"Diabetes, Type 2"
+1207,6067,conjugated estrogens / medroxyprogesterone,Postmenopausal Symptoms
+1208,6077,propoxyphene,Pain
+1209,6079,acitretin,Psoriasis
+1210,6087,fexofenadine / pseudoephedrine,Allergic Rhinitis
+1211,6091,leflunomide,Rheumatoid Arthritis
+1212,6104,diflunisal,Pain
+1213,6109,urea,Dry Skin
+1214,6120,acetohydroxamic acid,Urinary Tract Infection
+1215,6122,sulfacetamide sodium / sulfur,Acne
+1216,6132,benzphetamine,Obesity
+1217,6139,hydrochlorothiazide / olmesartan,High Blood Pressure
+1218,6144,niacin,High Cholesterol
+1219,6147,gatifloxacin,Conjunctivitis
+1220,6160,amphetamine,ADHD
+1221,6161,penlac,"Onychomycosis, Toenail"
+1222,6172,avalide,High Blood Pressure
+1223,6175,evolocumab,"High Cholesterol, Familial Homozygous"
+1224,6201,intal,"Asthma, Maintenance"
+1225,6215,elmiron,Interstitial Cystitis
+1226,6250,donepezil,Alzheimer's Disease
+1227,6259,aspirin / butalbital / caffeine / codeine,Headache
+1228,6278,brompheniramine,Allergic Rhinitis
+1229,6280,butalbital compound,Migraine
+1230,6287,latanoprost,Intraocular Hypertension
+1231,6317,axert,Migraine
+1232,6322,amantadine,Chronic Fatigue Syndrome
+1233,6323,maxalt-mlt,Migraine
+1234,6330,albiglutide,"Diabetes, Type 2"
+1235,6357,tri-luma,Melasma
+1236,6369,pegasys,Hepatitis C
+1237,6395,pentosan polysulfate sodium,Interstitial Cystitis
+1238,6409,antabuse,Alcohol Dependence
+1239,6417,amlodipine / valsartan,ge (amlodipine / valsartan)
+1240,6442,fleet enema,Constipation
+1241,6447,avinza,Pain
+1242,6449,zelnorm,Irritable Bowel Syndrome
+1243,6538,fingolimod,Multiple Sclerosis
+1244,6548,bextra,Osteoarthritis
+1245,6549,sonata,Insomnia
+1246,6550,erythromycin,Upper Respiratory Tract Infection
+1247,6554,symax duotab,Irritable Bowel Syndrome
+1248,6563,budesonide,Ulcerative Colitis
+1249,6573,levitra,Erectile Dysfunction
+1250,6580,glimepiride,"Diabetes, Type 2"
+1251,6593,norvasc,Raynaud's Syndrome
+1252,6612,cyclopentolate,Uveitis
+1253,6615,lotrel,High Blood Pressure
+1254,6624,kariva,Birth Control
+1255,6650,misoprostol,Labor Induction
+1256,6652,bentyl,Irritable Bowel Syndrome
+1257,6669,bunavail,Opiate Dependence
+1258,6675,alcaftadine,"Conjunctivitis, Allergic"
+1259,6678,dextromethorphan / guaifenesin / phenylephrine,Cough and Nasal Congestion
+1260,6680,ortho micronor,Birth Control
+1261,6683,mibelas 24 fe,Birth Control
+1262,6707,hi-vegi-lip,Chronic Pancreatitis
+1263,6713,bromocriptine,Hyperprolactinemia
+1264,6750,reclast,Osteoporosis
+1265,6764,zovirax ointment,Cold Sores
+1266,6791,doxepin,Insomnia
+1267,6818,dabigatran,Prevention of Thromboembolism in Atrial Fibrillation
+1268,6832,claritin,Allergic Rhinitis
+1269,6845,zolpimist,Insomnia
+1270,6867,desonide,Eczema
+1271,6880,tigan,Nausea/Vomiting
+1272,6885,bontril pdm,Obesity
+1273,6895,sofosbuvir,Hepatitis C
+1274,6898,treximet,Migraine
+1275,6906,aciphex,Helicobacter Pylori Infection
+1276,6907,zyrtec,Allergic Rhinitis
+1277,6948,bactroban,Skin and Structure Infection
+1278,6953,benzoic acid / salicylic acid,Dermatological Disorders
+1279,6956,senna,Constipation
+1280,6963,phenelzine,Depression
+1281,6980,lasix,Edema
+1282,6993,necon 1 / 50,Birth Control
+1283,6999,zantac,GERD
+1284,7008,kenalog-10,Alopecia
+1285,7009,mefloquine,Malaria Prevention
+1286,7037,magnacet,Pain
+1287,7071,clorazepate,Anxiety
+1288,7075,calcipotriene,Psoriasis
+1289,7115,atovaquone / proguanil,Malaria
+1290,7124,oramorph sr,Pain
+1291,7140,toradol iv / im,Postoperative Pain
+1292,7158,chlorpheniramine / hydrocodone / pseudoephedrine,Cough and Nasal Congestion
+1293,7169,diprivan,Anesthesia
+1294,7177,exalgo,Pain
+1295,7178,chlorzoxazone,Muscle Spasm
+1296,7181,ambien cr,Insomnia
+1297,7196,victrelis,Hepatitis C
+1298,7202,mebaral,Epilepsy
+1299,7210,dilantin,Neurosurgery
+1300,7242,econazole,Tinea Corporis
+1301,7244,tylenol pm,Insomnia
+1302,7246,levsin sl,Urinary Incontinence
+1303,7250,palbociclib,"Breast Cancer, Metastatic"
+1304,7252,creon,Chronic Pancreatitis
+1305,7278,nalbuphine,Pain
+1306,7341,ranibizumab,Macular Edema
+1307,7364,tenex,High Blood Pressure
+1308,7410,transderm-scop,Motion Sickness
+1309,7423,gildess 24 fe,Birth Control
+1310,7433,prometrium,Progesterone Insufficiency
+1311,7442,gabapentin enacarbil,Postherpetic Neuralgia
+1312,7461,omacor,Hypertriglyceridemia
+1313,7462,ixekizumab,Plaque Psoriasis
+1314,7515,zutripro,Cough and Nasal Congestion
+1315,7518,naftifine,Tinea Pedis
+1316,7550,epitol,Bipolar Disorde
+1317,7559,luvox,Obsessive Compulsive Disorde
+1318,7570,diphenhydramine / naproxen,Insomnia
+1319,7572,clotrimazole,Vaginal Yeast Infection
+1320,7586,imatinib,Chronic Myelogenous Leukemia
+1321,7600,lessina,Birth Control
+1322,7601,fenofibrate,Hypertriglyceridemia
+1323,7611,ultravate,Psoriasis
+1324,7673,capsaicin,Diabetic Peripheral Neuropathy
+1325,7700,lexiscan,Diagnosis and Investigation
+1326,7703,xeljanz,Rheumatoid Arthritis
+1327,7709,cyclafem 1 / 35,Birth Control
+1328,7729,factive,Bronchitis
+1329,7744,rituxan,Chronic Lymphocytic Leukemia
+1330,7815,menthol,Pain
+1331,7838,scullcap,Herbal Supplementation
+1332,7847,tussionex pennkinetic,Cough
+1333,7852,gas-x,Gas
+1334,7856,rheumatrex dose pack,Rheumatoid Arthritis
+1335,7895,zovia,Birth Control
+1336,7897,sutent,Renal Cell Carcinoma
+1337,7903,mepivacaine,Local Anesthesia
+1338,7927,pyridostigmine,Myasthenia Gravis
+1339,7955,amerge,Migraine
+1340,7975,xopenex,"Asthma, acute"
+1341,7984,brompheniramine / dextromethorphan / pseudoephedrine,Cough and Nasal Congestion
+1342,8005,levoxyl,Underactive Thyroid
+1343,8029,hydralazine,High Blood Pressure
+1344,8036,dextromethorphan / guaifenesin / pseudoephedrine,Cough and Nasal Congestion
+1345,8042,evoxac,Sjogren's Syndrome
+1346,8046,metrogel,Rosacea
+1347,8055,dimethyl fumarate,Multiple Sclerosis
+1348,8074,eskalith,Bipolar Disorde
+1349,8076,fioricet with codeine,Headache
+1350,8077,dofetilide,Arrhythmia
+1351,8084,tretin-x,Acne
+1352,8089,effient,Acute Coronary Syndrome
+1353,8093,quillivant xr,ADHD
+1354,8102,vaniqa,Hirsutism
+1355,8105,coal tar,Seborrheic Dermatitis
+1356,8112,lacrisert,Dry Eye Disease
+1357,8124,nasacort allergy 24hr,Allergic Rhinitis
+1358,8135,acetaminophen / caffeine / isometheptene mucate,Headache
+1359,8147,dalmane,Insomnia
+1360,8148,terazosin,Benign Prostatic Hyperplasia
+1361,8198,atazanavir,HIV Infection
+1362,8250,benadryl allergy,Insomnia
+1363,8261,mestinon,Myasthenia Gravis
+1364,8326,bevacizumab,Colorectal Cance
+1365,8331,insulin glulisine,"Diabetes, Type 2"
+1366,8363,winrho sdf,Idiopathic Thrombocytopenic Purpura
+1367,8374,sulindac,Rheumatoid Arthritis
+1368,8375,proctosol-hc,Hemorrhoids
+1369,8394,tranylcypromine,Depression
+1370,8407,felbatol,Epilepsy
+1371,8418,olodaterol / tiotropium,COPD
+1372,8424,sulfasalazine,Crohn's Disease
+1373,8445,opium,Diarrhea
+1374,8447,cedax,Sinusitis
+1375,8479,finasteride,Androgenetic Alopecia
+1376,8509,meridia,Obesity
+1377,8542,adenosine,Supraventricular Tachycardia
+1378,8552,makena,Premature Lab
+1379,8564,subutex,Opiate Dependence
+1380,8577,intal inhaler,"Asthma, Maintenance"
+1381,8578,fluticasone / salmeterol,"Asthma, Maintenance"
+1382,8591,selexipag,Pulmonary Hypertension
+1383,8600,lipitor,High Cholesterol
+1384,8658,lupron depot-ped,Precocious Puberty
+1385,8666,riluzole,Obsessive Compulsive Disorde
+1386,8678,lupron,Prostate Cance
+1387,8694,dibucaine,Local Anesthesia
+1388,8713,ticagrelor,Acute Coronary Syndrome
+1389,8753,azathioprine,Ulcerative Colitis
+1390,8755,trezix,Pain
+1391,8768,amlodipine / hydrochlorothiazide / olmesartan,High Blood Pressure
+1392,8771,retin-a,Acne
+1393,8776,angeliq,Postmenopausal Symptoms
+1394,8779,macrodantin,Prevention of Bladder infection
+1395,8802,nuedexta,Pseudobulbar Affect
+1396,8819,entocort ec,"Crohn's Disease, Acute"
+1397,8821,actonel,Osteoporosis
+1398,8843,indocin,"Gout, Acute"
+1399,8926,magnesium salicylate,Pain
+1400,8931,dermal filler,acial Wrinkles
+1401,8939,acetaminophen / caffeine / dihydrocodeine,Pain
+1402,8948,amrix,Muscle Spasm
+1403,8960,simeprevir,Hepatitis C
+1404,8963,vicoprofen,Pain
+1405,8989,glimepiride / pioglitazone,"Diabetes, Type 2"
+1406,8992,desoximetasone,Psoriasis
+1407,9042,tazorac,Psoriasis
+1408,9070,necon 7 / 7 / 7,Birth Control
+1409,9075,nadolol,Migraine Prevention
+1410,9090,linezolid,Pneumonia
+1411,9129,clarinex,Allergic Rhinitis
+1412,9185,xalatan,"Glaucoma, Open Angle"
+1413,9193,salonpas pain patch,Osteoarthritis
+1414,9209,glipizide xl,"Diabetes, Type 2"
+1415,9215,diphenidol,Vertig
+1416,9216,perforomist,"COPD, Maintenance"
+1417,9223,livalo,High Cholesterol
+1418,9231,desogen,Birth Control
+1419,9244,zoladex,Prostate Cance
+1420,9262,taxotere,Breast Cance
+1421,9274,candesartan,High Blood Pressure
+1422,9286,enoxaparin,Deep Vein Thrombosis
+1423,9291,actoplus met,"Diabetes, Type 2"
+1424,9300,naratriptan,Migraine
+1425,9303,micardis,High Blood Pressure
+1426,9323,pexeva,Anxiety
+1427,9329,cyred,Birth Control
+1428,9330,jalyn,Benign Prostatic Hyperplasia
+1429,9335,meperidine / promethazine,Pain
+1430,9390,prinzide,High Blood Pressure
+1431,9401,rytary,Parkinson's Disease
+1432,9403,daraprim,Malaria Prevention
+1433,9414,pseudoephedrine,Nasal Congestion
+1434,9522,diphenhydramine / hydrocortisone,Pruritus
+1435,9563,valturna,High Blood Pressure
+1436,9621,fidaxomicin,Clostridial Infection
+1437,9656,temovate,Dermatitis
+1438,9667,xtandi,Prostate Cance
+1439,9669,fluoxetine / olanzapine,Bipolar Disorde
+1440,9685,salicylic acid / sulfur,Dandruff
+1441,9706,hyzaar,High Blood Pressure
+1442,9719,tarceva,Non-Small Cell Lung Cance
+1443,9727,cyanocobalamin,Vitamin B12 Deficiency
+1444,9749,homatropine / hydrocodone,Cough
+1445,9758,cardizem,Atrial Flutte
+1446,9760,loteprednol,Iritis
+1447,9764,somnote,Insomnia
+1448,9767,a + d cracked skin relief,Bacterial Skin Infection
+1449,9780,rivastigmine,Alzheimer's Disease
+1450,9807,interferon beta-1a,Multiple Sclerosis
+1451,9830,actos,"Diabetes, Type 2"
+1452,9853,paxil cr,Depression
+1453,9858,ferrous sulfate,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+1454,9862,aygestin,Abnormal Uterine Bleeding
+1455,9869,dienogest / estradiol,Birth Control
+1456,9875,mepron,Babesiosis
+1457,9970,enablex,Urinary Incontinence
+1458,9982,cinacalcet,Secondary Hyperparathyroidism
+1459,9984,alendronate,Osteoporosis
+1460,9989,tobradex,"Conjunctivitis, Bacterial"
+1461,10015,lotensin,High Blood Pressure
+1462,10018,prilosec,GERD
+1463,10034,elocon,Atopic Dermatitis
+1464,10040,talwin,Pain
+1465,10044,inderal,Performance Anxiety
+1466,10047,rogaine women's,Alopecia
+1467,10058,psyllium,Irritable Bowel Syndrome
+1468,10060,recticare,Hemorrhoids
+1469,10086,stendra,Erectile Dysfunction
+1470,10103,mydayis,ADHD
+1471,10105,vimpat,Seizures
+1472,10123,carac,Skin Cance
+1473,10135,fluocinolone / hydroquinone / tretinoin,Melasma
+1474,10146,natroba,Head Lice
+1475,10159,eovist,Liver Magnetic Resonance Imaging
+1476,10176,daclatasvir,Hepatitis C
+1477,10197,monovisc,Osteoarthritis
+1478,10224,alcortin a,Dermatitis
+1479,10259,excedrin,Migraine
+1480,10276,horizant,Restless Legs Syndrome
+1481,10317,nostrilla,Nasal Congestion
+1482,10324,rea lo 40,Dermatological Disorders
+1483,10331,empagliflozin / metformin,min)
+1484,10353,stalevo 200,Parkinson's Disease
+1485,10379,glucotrol,"Diabetes, Type 2"
+1486,10449,atropine / hyoscyamine / phenobarbital / scopolamine,Irritable Bowel Syndrome
+1487,10460,multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency
+1488,10465,zorvolex,Pain
+1489,10478,famciclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host"
+1490,10539,aranesp,Anemia Associated with Chronic Renal Failure
+1491,10541,fosfomycin,Bladder Infection
+1492,10550,carafate,GERD
+1493,10558,flurandrenolide,Eczema
+1494,10590,pneumococcal 13-valent vaccine,Pneumococcal Disease Prophylaxis
+1495,10593,terbutaline,Premature Lab
+1496,10627,lidocaine viscous,Pain
+1497,10644,ketoconazole,Not Listed / Othe
+1498,10711,denavir,Cold Sores
+1499,10729,estrace,Hypoestrogenism
+1500,10741,imitrex statdose,Migraine
+1501,10750,vraylar,Bipolar Disorde
+1502,10761,sarafem,Premenstrual Dysphoric Disorde
+1503,10770,marplan,Depression
+1504,10786,gabitril,Seizures
+1505,10787,atenolol / chlorthalidone,High Blood Pressure
+1506,10813,piroxicam,Rheumatoid Arthritis
+1507,10824,muse,Erectile Dysfunction
+1508,10855,renvela,Hyperphosphatemia of Renal Failure
+1509,10868,evening primrose oil,Hot Flashes
+1510,10878,praluent,High Cholesterol
+1511,10883,revatio,Pulmonary Hypertension
+1512,10920,lotronex,Diarrhea
+1513,10928,zenatane,Acne
+1514,10936,methenamine,Bladder Infection
+1515,10953,entresto,Heart Failure
+1516,10985,imitrex nasal,Cluster Headaches
+1517,11005,cellcept,Myasthenia Gravis
+1518,11017,apriso,Ulcerative Colitis
+1519,11031,systane,Dry Eye Disease
+1520,11052,orudis kt,Rheumatoid Arthritis
+1521,11059,nortrel 7 / 7 / 7,Birth Control
+1522,11069,micardis hct,High Blood Pressure
+1523,11078,advil cold and sinus,Sinus Symptoms
+1524,11086,biotin,Dietary Supplementation
+1525,11109,nitroglycerin,Anal Fissure and Fistula
+1526,11124,vimovo,Osteoarthritis
+1527,11133,acetaminophen / butalbital,Headache
+1528,11145,bepreve,"Conjunctivitis, Allergic"
+1529,11173,incivek,Hepatitis C
+1530,11181,plavix,Heart Attack
+1531,11185,permethrin,Scabies
+1532,11207,imodium a-d,Diarrhea
+1533,11214,vicks nyquil d cold and flu nighttime relief,Cold Symptoms
+1534,11267,fabior,Acne
+1535,11268,arginine,Dietary Supplementation
+1536,11277,brilinta,Acute Coronary Syndrome
+1537,11346,camila,Birth Control
+1538,11353,abiraterone,Prostate Cance
+1539,11354,aprepitant,"Nausea/Vomiting, Chemotherapy Induced"
+1540,11439,peginterferon alfa-2a,Hepatitis C
+1541,11459,aloe vera / hydrocortisone / iodoquinol,Dermatitis
+1542,11461,fiorinal,Migraine
+1543,11485,dolophine,Opiate Withdrawal
+1544,11488,iressa,Non-Small Cell Lung Cance
+1545,11633,levalbuterol,"COPD, Acute"
+1546,11642,hydrochlorothiazide / valsartan,High Blood Pressure
+1547,11643,trocaine,Tonsillitis/Pharyngitis
+1548,11645,avapro,High Blood Pressure
+1549,11651,panoxyl,Acne
+1550,11678,flumist,Influenza Prophylaxis
+1551,11683,glycerin,Constipation
+1552,11703,hydrochlorothiazide / moexipril,High Blood Pressure
+1553,11711,hydrochlorothiazide / triamterene,High Blood Pressure
+1554,11748,nitrolingual pumpspray,Heart Attack
+1555,11771,nicorette,Smoking Cessation
+1556,11776,romiplostim,Idiopathic Thrombocytopenic Purpura
+1557,11778,zestoretic,High Blood Pressure
+1558,11795,levsin,Irritable Bowel Syndrome
+1559,11834,sudafed pe severe cold,Cold Symptoms
+1560,11846,gynazole-1,Vaginal Yeast Infection
+1561,11863,aclidinium,COPD
+1562,11890,avandia,"Diabetes, Type 2"
+1563,11893,tradjenta,"Diabetes, Type 2"
+1564,11914,addyi,Hypoactive Sexual Desire Disorde
+1565,11938,zocor,High Cholesterol
+1566,11941,fanapt,Schizophrenia
+1567,11944,ranolazine,Angina
+1568,11948,cyclizine,Motion Sickness
+1569,11951,azilsartan medoxomil,High Blood Pressure
+1570,11997,marinol,"Nausea/Vomiting, Chemotherapy Induced"
+1571,12002,naloxone / pentazocine,Pain
+1572,12045,roxicet,Chronic Pain
+1573,12070,benzoyl peroxide / hydrocortisone,Acne
+1574,12080,paromomycin,Dientamoeba fragilis
+1575,12092,nucynta er,Diabetic Peripheral Neuropathy
+1576,12109,ferric citrate,Hyperphosphatemia of Renal Failure
+1577,12123,fosrenol,Hyperphosphatemia of Renal Failure
+1578,12131,pentothal,Anesthesia
+1579,12151,oruvail,Back Pain
+1580,12157,zonegran,Seizures
+1581,12162,brivaracetam,Seizures
+1582,12202,tiger balm,Pain
+1583,12207,alrex,Conjunctivitis
+1584,12218,primatene mist,"COPD, Acute"
+1585,12260,calcium carbonate,Stomach Ulce
+1586,12262,triamterene,Edema
+1587,12272,electrolyte replacement solutions,Not Listed / Othe
+1588,12277,abilify maintena,Schizophrenia
+1589,12304,remeron soltab,Depression
+1590,12313,nalfon,"Gout, Acute"
+1591,12325,stelazine,Anxiety
+1592,12333,advil,Back Pain
+1593,12337,albuterol / ipratropium,"COPD, Maintenance"
+1594,12339,pravastatin,High Cholesterol
+1595,12340,xtampza er,Chronic Pain
+1596,12346,methscopolamine,Dumping Syndrome
+1597,12373,hydrochlorothiazide / losartan,High Blood Pressure
+1598,12387,azacitidine,Myelodysplastic Syndrome
+1599,12404,donnatal,Irritable Bowel Syndrome
+1600,12406,lysteda,Menorrhagia
+1601,12411,edex,Erectile Dysfunction
+1602,12421,fluocinonide,Psoriasis
+1603,12427,briviact,Seizures
+1604,12491,triazolam,Insomnia
+1605,12506,lioresal,Neuralgia
+1606,12599,red yeast rice,High Cholesterol
+1607,12652,hyaluronidase,Hypodermoclysis
+1608,12665,hycodan,Cough
+1609,12667,megace,Endometrial Cance
+1610,12697,crisaborole,Atopic Dermatitis
+1611,12713,naloxone,Opioid Overdose
+1612,12721,pindolol,High Blood Pressure
+1613,12725,zantac 150,GERD
+1614,12739,lamisil at,Tinea Corporis
+1615,12748,qudexy xr,Seizure Prevention
+1616,12760,ingenol,Actinic Keratosis
+1617,12795,asmanex twisthaler,"Asthma, Maintenance"
+1618,12812,chromium picolinate,Vitamin/Mineral Supplementation and Deficiency
+1619,12819,bimatoprost,Intraocular Hypertension
+1620,12830,xerac ac,Hyperhidrosis
+1621,12867,ethinyl estradiol / ethynodiol,Birth Control
+1622,12877,ventolin hfa,"Asthma, acute"
+1623,12885,glucophage,"Diabetes, Type 2"
+1624,12921,sevelamer,Hyperphosphatemia of Renal Failure
+1625,12927,avita,Acne
+1626,12984,alyacen 1 / 35,Birth Control
+1627,12986,lanacane,Pain
+1628,13011,magnesium gluconate,Dietary Supplementation
+1629,13051,icatibant,Hereditary Angioedema
+1630,13053,condylox,Condylomata Acuminata
+1631,13060,tavaborole,"Onychomycosis, Toenail"
+1632,13092,aromasin,Breast Cance
+1633,13103,climara,Hypoestrogenism
+1634,13129,uroxatral,Benign Prostatic Hyperplasia
+1635,13180,levo-t,Hashimoto's disease
+1636,13200,povidone iodine,Topical Disinfection
+1637,13228,pembrolizumab,"Melanoma, Metastatic"
+1638,13291,advil liqui-gels,"Gout, Acute"
+1639,13306,catapres,ADHD
+1640,13310,np thyroid,Underactive Thyroid
+1641,13312,linagliptin / metformin,min)
+1642,13313,natazia,Birth Control
+1643,13343,fosamax,Osteoporosis
+1644,13356,tiagabine,Seizures
+1645,13383,ogestrel-28,Birth Control
+1646,13411,tri-linyah,Acne
+1647,13424,almotriptan,Migraine
+1648,13426,children's motrin,Pain
+1649,13466,lioresal intrathecal,Chronic Spasticity
+1650,13470,pentoxifylline,Intermittent Claudication
+1651,13476,neevo dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+1652,13500,sacubitril / valsartan,Heart Failure
+1653,13510,edarbyclor,High Blood Pressure
+1654,13515,omeprazole / sodium bicarbonate,Stomach Ulce
+1655,13553,minocin,Acne
+1656,13563,prasugrel,Acute Coronary Syndrome
+1657,13568,xifaxan,Irritable Bowel Syndrome
+1658,13575,meperitab,Pain
+1659,13616,ventolin,"Asthma, acute"
+1660,13621,tylenol with codeine #4,Pain
+1661,13645,phenohytro,Irritable Bowel Syndrome
+1662,13661,morphine / naltrexone,Chronic Pain
+1663,13716,treprostinil,Pulmonary Hypertension
+1664,13718,combivent respimat,"COPD, Maintenance"
+1665,13723,oxiconazole,Tinea Corporis
+1666,13753,pegfilgrastim,Neutropenia Associated with Chemotherapy
+1667,13813,darvon,Pain
+1668,13818,urispas,Overactive Bladde
+1669,13828,bupivacaine liposome,Pain
+1670,13868,copegus,Hepatitis C
+1671,13876,insulin detemir,"Diabetes, Type 2"
+1672,13937,rasagiline,Parkinson's Disease
+1673,13949,nivolumab,Renal Cell Carcinoma
+1674,13986,epiduo forte,Acne
+1675,13996,humalog kwikpen,"Diabetes, Type 1"
+1676,14015,multaq,Atrial Fibrillation
+1677,14043,prilosec otc,GERD
+1678,14082,ritalin la,ADHD
+1679,14084,androderm,"Hypogonadism, Male"
+1680,14087,ddavp,Diabetes Insipidus
+1681,14127,capecitabine,"Breast Cancer, Metastatic"
+1682,14145,clozaril,Schizophrenia
+1683,14170,gefitinib,Non-Small Cell Lung Cance
+1684,14178,uricalm,Dysuria
+1685,14181,penlac nail lacquer,"Onychomycosis, Fingernail"
+1686,14189,allantoin / camphor / phenol,Herpes Simplex
+1687,14247,pravachol,High Cholesterol
+1688,14269,galantamine,Alzheimer's Disease
+1689,14293,tekturna hct,High Blood Pressure
+1690,14317,trulance,Chronic Idiopathic Constipation
+1691,14343,sanctura,Overactive Bladde
+1692,14350,coumadin,Prevention of Thromboembolism in Atrial Fibrillation
+1693,14352,unithroid,Hashimoto's disease
+1694,14389,veltin,Acne
+1695,14405,belviq xr,Weight Loss
+1696,14420,amnesteem,Acne
+1697,14428,aptiom,Seizures
+1698,14431,allegra,Urticaria
+1699,14438,lithobid,Bipolar Disorde
+1700,14454,afinitor,Renal Cell Carcinoma
+1701,14475,combivir,HIV Infection
+1702,14511,daliresp,"COPD, Maintenance"
+1703,14512,alosetron,Irritable Bowel Syndrome
+1704,14525,procentra,ADHD
+1705,14552,diazepam intensol,Anxiety
+1706,14590,demerol,Pain
+1707,14608,diovan hct,High Blood Pressure
+1708,14631,trilipix,High Cholesterol
+1709,14637,altoprev,"High Cholesterol, Familial Heterozygous"
+1710,14656,niravam,Panic Disorde
+1711,14683,elimite,Scabies
+1712,14685,mupirocin,Secondary Cutaneous Bacterial Infections
+1713,14687,acetaminophen / pentazocine,Pain
+1714,14689,duexis,Osteoarthritis
+1715,14697,hiprex,Bladder Infection
+1716,14711,maxzide,High Blood Pressure
+1717,14712,altavera,Birth Control
+1718,14732,chorionic gonadotropin (hcg),Obesity
+1719,14734,quibron-t,"Asthma, acute"
+1720,14741,tetrahydrozoline / zinc sulfate,Eye Redness/Itching
+1721,14747,saxagliptin,"Diabetes, Type 2"
+1722,14820,yuvafem,Atrophic Vaginitis
+1723,14870,cefazolin,Bacterial Endocarditis Prevention
+1724,14885,tegaserod,Irritable Bowel Syndrome
+1725,14910,dupilumab,Eczema
+1726,14917,ilevro,Postoperative Ocular Inflammation
+1727,14930,enteragam,Irritable Bowel Syndrome
+1728,14948,calan,Cluster Headaches
+1729,14976,sotalol,Atrial Fibrillation
+1730,14998,limbitrol ds,Anxiety
+1731,15019,avodart,Benign Prostatic Hyperplasia
+1732,15025,sodium hypochlorite,Topical Disinfection
+1733,15027,votrient,Renal Cell Carcinoma
+1734,15066,ciprodex,Otitis Externa
+1735,15076,bayer aspirin,Back Pain
+1736,15132,valproic acid,Bipolar Disorde
+1737,15142,monistat 1-day or night combination pack,Vaginal Yeast Infection
+1738,15158,stavzor,Mania
+1739,15171,habitrol,Smoking Cessation
+1740,15179,reprexain,Pain
+1741,15187,zicam extreme congestion relief,Nasal Congestion
+1742,15189,prograf,"Organ Transplant, Rejection Prophylaxis"
+1743,15211,ginkgo,Herbal Supplementation
+1744,15216,ezetimibe / simvastatin,High Cholesterol
+1745,15222,biotene mouthwash,Xerostomia
+1746,15237,tofranil,Interstitial Cystitis
+1747,15243,amiodarone,Arrhythmia
+1748,15301,tekturna,High Blood Pressure
+1749,15302,bismuth subsalicylate,Diarrhea
+1750,15307,travoprost,"Glaucoma, Open Angle"
+1751,15454,rogaine,Alopecia
+1752,15467,juleber,Birth Control
+1753,15541,pamelor,Neuralgia
+1754,15558,mercaptopurine,"Crohn's Disease, Maintenance"
+1755,15570,frova,Migraine
+1756,15593,proventil hfa,"Asthma, Maintenance"
+1757,15630,cartia xt,Supraventricular Tachycardia
+1758,15640,colcrys,"Gout, Acute"
+1759,15665,elestat,"Conjunctivitis, Allergic"
+1760,15702,zipsor,Back Pain
+1761,15707,mellaril,Schizophrenia
+1762,15724,chlorpheniramine / dextromethorphan / pseudoephedrine,Cough and Nasal Congestion
+1763,15764,methylin,ADHD
+1764,15819,lorzone,Muscle Spasm
+1765,15852,privine,Nasal Congestion
+1766,15868,astelin,Allergic Rhinitis
+1767,15892,combipatch,Postmenopausal Symptoms
+1768,15927,estradiol patch,Oophorectomy
+1769,15950,multivitamin with iron,Anemia
+1770,15951,tri-estarylla,Acne
+1771,16058,haloperidol,Psychosis
+1772,16074,olodaterol,Not Listed / Othe
+1773,16078,hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,Urinary Tract Infection
+1774,16111,nasonex,Allergic Rhinitis
+1775,16172,t-diet,Weight Loss
+1776,16183,salsalate,Rheumatoid Arthritis
+1777,16274,diosmiplex,Dietary Supplementation
+1778,16280,metadate cd,ADHD
+1779,16336,metoprolol tartrate,High Blood Pressure
+1780,16379,penicillin g benzathine,Bacterial Infection
+1781,16423,dovonex,Psoriasis
+1782,16425,spinosad,Head Lice
+1783,16506,icosapent,Hypertriglyceridemia
+1784,16523,chlorpheniramine / hydrocodone / phenylephrine,Cough and Nasal Congestion
+1785,16536,excedrin sinus headache,Headache
+1786,16542,aricept,Alzheimer's Disease
+1787,16561,fycompa,Seizures
+1788,16575,bendamustine,Non-Hodgkin's Lymphoma
+1789,16596,coal tar / salicylic acid / sulfur,Psoriasis
+1790,16622,trinessa lo,Acne
+1791,16652,sular,Raynaud's Syndrome
+1792,16765,cabozantinib,Thyroid Cance
+1793,16797,simcor,High Cholesterol
+1794,16833,hytrin,Benign Prostatic Hyperplasia
+1795,16843,cleocin,Sinusitis
+1796,16886,solu-medrol,"Gout, Acute"
+1797,16913,anaprox,Back Pain
+1798,16935,rhofade,Rosacea
+1799,16936,westcort,Eczema
+1800,16939,glucosamine,ibromyalgia
+1801,16974,orap,Tourette's Syndrome
+1802,16975,uceris,"Ulcerative Colitis, Active"
+1803,17035,hydrocodone / pseudoephedrine,Cough and Nasal Congestion
+1804,17053,rifampin,"Tuberculosis, Latent"
+1805,17061,prodrin,Headache
+1806,17095,spectazole,Tinea Pedis
+1807,17100,felbamate,Lennox-Gastaut Syndrome
+1808,17109,humalog,"Diabetes, Type 1"
+1809,17123,lemtrada,Multiple Sclerosis
+1810,17133,lodine,Osteoarthritis
+1811,17137,lovenox,Deep Vein Thrombosis
+1812,17166,toviaz,Overactive Bladde
+1813,17170,buckleys mixture,Cough
+1814,17219,bromfed dm,Cough and Nasal Congestion
+1815,17268,uniphyl,"Asthma, Maintenance"
+1816,17322,esgic-plus,Headache
+1817,17331,aldara,Human Papilloma Virus
+1818,17361,debrox,Ear Wax Impaction
+1819,17384,cardura,Benign Prostatic Hyperplasia
+1820,17421,pataday,Seasonal Allergic Conjunctivitis
+1821,17458,sorafenib,Hepatocellular Carcinoma
+1822,17465,nupercainal,Hemorrhoids
+1823,17496,tylox,Pain
+1824,17521,ospemifene,Dyspareunia
+1825,17527,psorcon e,Eczema
+1826,17549,temodar,Glioblastoma Multiforme
+1827,17592,tylenol,Pain
+1828,17604,cordarone,Arrhythmia
+1829,17616,erbitux,Head and Neck Cance
+1830,17642,ketotifen,"Conjunctivitis, Allergic"
+1831,17692,atrovent nasal,Rhinorrhea
+1832,17747,hydroxyprogesterone,Premature Lab
+1833,17830,benlysta,Systemic Lupus Erythematosus
+1834,17853,acetaminophen / dextromethorphan / phenylephrine,Sinus Symptoms
+1835,17920,atovaquone,Babesiosis
+1836,17948,bisoprolol,Supraventricular Tachycardia
+1837,17956,cogentin,Extrapyramidal Reaction
+1838,17968,fluocinolone,Diabetic Macular Edema
+1839,18018,dutasteride / tamsulosin,Benign Prostatic Hyperplasia
+1840,18128,dilt-xr,Atrial Fibrillation
+1841,18137,norpace cr,Arrhythmia
+1842,18166,paregoric,Diarrhea
+1843,18175,a / b otic,Otitis Media
+1844,18193,abatacept,Rheumatoid Arthritis
+1845,18196,estratest h.s.,Menopausal Disorders
+1846,18240,migergot,Migraine
+1847,18271,femcon fe,Birth Control
+1848,18336,astepro,Allergic Rhinitis
+1849,18387,hydrocortisone / pramoxine,Hemorrhoids
+1850,18427,amoxapine,Depression
+1851,18441,glyburide,"Diabetes, Type 2"
+1852,18512,vicodin hp,Pain
+1853,18602,vienva,Birth Control
+1854,18658,estazolam,Insomnia
+1855,18756,benazepril,High Blood Pressure
+1856,18760,cordran tape,Psoriasis
+1857,18767,durezol,Uveitis
+1858,18777,keytruda,"Melanoma, Metastatic"
+1859,18886,acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,Cold Symptoms
+1860,18923,gemifloxacin,Pneumonia
+1861,18950,myobloc,Dystonia
+1862,18966,mycophenolic acid,tic (mycophenolic acid)
+1863,18976,cytomel,Underactive Thyroid
+1864,18990,tetracycline,Acne
+1865,19013,epipen,Allergic Reactions
+1866,19073,allegra-d 12 hour,Allergic Rhinitis
+1867,19104,risperdal m-tab,Schizoaffective Disorde
+1868,19161,hylira,Dermatitis
+1869,19189,solaraze,Keratosis
+1870,19196,sanctura xr,Urinary Incontinence
+1871,19240,myleran,Thrombocythemia
+1872,19252,lidex,Psoriasis
+1873,19446,chlorpheniramine / methscopolamine / phenylephrine,Rhinitis
+1874,19457,inderal la,Migraine Prevention
+1875,19494,ergocalciferol,Vitamin D Deficiency
+1876,19512,hyomax sr,Crohn's Disease
+1877,19515,lucentis,Macular Degeneration
+1878,19540,phenylephrine / pramoxine,Hemorrhoids
+1879,19541,dexamethasone / neomycin / polymyxin b,"Conjunctivitis, Bacterial"
+1880,19557,repaglinide,"Diabetes, Type 2"
+1881,19558,kenalog-40,Allergic Rhinitis
+1882,19599,"insulin inhalation, rapid acting","Diabetes, Type 1"
+1883,19636,lopressor,High Blood Pressure
+1884,19638,zelboraf,"Melanoma, Metastatic"
+1885,19714,urso,Biliary Cirrhosis
+1886,19750,zometa,Osteolytic Bone Metastases of Solid Tumors
+1887,19801,esterified estrogens,Postmenopausal Symptoms
+1888,19817,phenobarbital,Seizures
+1889,19862,pioglitazone,"Diabetes, Type 2"
+1890,19866,ryzolt,Back Pain
+1891,19932,lo / ovral,Birth Control
+1892,19971,stivarga,Colorectal Cance
+1893,19987,claritin-d,Nasal Congestion
+1894,19998,budeprion xl,Depression
+1895,20001,advate,Hemophilia A
+1896,20119,belimumab,Systemic Lupus Erythematosus
+1897,20125,iclusig,Acute Lymphoblastic Leukemia
+1898,20127,everolimus,Breast Cance
+1899,20143,stromectol,Strongyloidiasis
+1900,20215,rufinamide,Lennox-Gastaut Syndrome
+1901,20257,yohimbine,Erectile Dysfunction
+1902,20261,revlimid,Multiple Myeloma
+1903,20263,diamox sequels,Edema
+1904,20267,fexmid,Muscle Spasm
+1905,20297,mephyton,Vitamin K Deficiency
+1906,20397,linagliptin,"Diabetes, Type 2"
+1907,20415,pulmicort flexhaler,"Asthma, Maintenance"
+1908,20431,azo-standard,Interstitial Cystitis
+1909,20433,degarelix,Prostate Cance
+1910,20474,epoetin alfa,Anemia Associated with Chronic Renal Failure
+1911,20477,indocin sr,Pain
+1912,20485,symmetrel,Parkinson's Disease
+1913,20487,boceprevir,Hepatitis C
+1914,20495,equetro,Bipolar Disorde
+1915,20508,corn huskers lotion,Dry Skin
+1916,20521,cetirizine / pseudoephedrine,Allergic Rhinitis
+1917,20532,capsin,Pain
+1918,20588,phytonadione,Vitamin K Deficiency
+1919,20624,lactase,Lactose Intolerance
+1920,20648,ovide,Head Lice
+1921,20687,dextromethorphan / guaifenesin,Cough
+1922,20689,retin a micro,Acne
+1923,20722,riboflavin,Migraine Prevention
+1924,20732,cyclophosphamide,Multiple Sclerosis
+1925,20787,estropipate,Postmenopausal Symptoms
+1926,20799,arcalyst,amilial Cold Autoinflammatory Syndrome
+1927,20802,slow fe,Iron Deficiency Anemia
+1928,20826,luvox cr,Post Traumatic Stress Disorde
+1929,20878,prialt,Pain
+1930,20889,namenda xr,Alzheimer's Disease
+1931,20896,zovirax,Herpes Simplex
+1932,20945,isoniazid,"Tuberculosis, Prophylaxis"
+1933,20949,tylenol with codeine,Pain
+1934,20998,botulinum toxin type b,Cervical Dystonia
+1935,21012,stiolto respimat,COPD
+1936,21030,ashlyna,Birth Control
+1937,21077,senokot,Constipation
+1938,21081,norgesic,Muscle Pain
+1939,21095,dronedarone,Atrial Fibrillation
+1940,21103,avonex pen,Multiple Sclerosis
+1941,21179,neostigmine,Myasthenia Gravis
+1942,21189,darvocet a500,Pain
+1943,21210,undecylenic acid,Not Listed / Othe
+1944,21317,drospirenone / estradiol,Postmenopausal Symptoms
+1945,21331,drixoral cold / flu,Allergic Rhinitis
+1946,21349,gadavist,CNS Magnetic Resonance Imaging
+1947,21373,vagistat-1,Vaginal Yeast Infection
+1948,21421,magnesium oxide,Constipation
+1949,21513,valdecoxib,Pain
+1950,21533,methamphetamine,ADHD
+1951,21649,lotemax,Postoperative Ocular Inflammation
+1952,21660,naropin polyamp,Labor Pain
+1953,21711,humulin n,"Diabetes, Type 2"
+1954,21719,alavert,Urticaria
+1955,21723,sipuleucel-t,Prostate Cance
+1956,21726,rozex,Rosacea
+1957,21729,collagenase,Keratosis
+1958,21760,savaysa,Atrial Fibrillation
+1959,21781,humatin,Dientamoeba fragilis
+1960,21874,aspirin / carisoprodol,Muscle Spasm
+1961,21901,griseofulvin,Tinea Corporis
+1962,21907,microgestin 1.5 / 30,Menstrual Disorders
+1963,21929,vasodilan,Raynaud's Syndrome
+1964,21933,talwin nx,Chronic Pain
+1965,21964,klonopin wafer,Panic Disorde
+1966,21981,aliskiren,High Blood Pressure
+1967,21992,zubsolv,Opiate Dependence
+1968,22061,soma compound,Muscle Pain
+1969,22073,coreg cr,High Blood Pressure
+1970,22082,aplenzin,Depression
+1971,22088,viekira pak,Hepatitis C
+1972,22161,fesoterodine,Overactive Bladde
+1973,22246,vivarin,Hypersomnia
+1974,22263,detrol,Overactive Bladde
+1975,22270,cetuximab,Colorectal Cance
+1976,22288,nasacort aq,Allergic Rhinitis
+1977,22422,rynatan,Cold Symptoms
+1978,22511,rectiv,Anal Fissure and Fistula
+1979,22537,verelan,Migraine Prevention
+1980,22545,flanax pain reliever,Costochondritis
+1981,22548,paclitaxel protein-bound,Breast Cance
+1982,22549,hyoscyamine / methenamine / methylene blue / sodium biphosphate,Urinary Tract Infection
+1983,22567,foradil aerolizer,"COPD, Maintenance"
+1984,22575,raloxifene,Osteoporosis
+1985,22683,revia,Alcohol Dependence
+1986,22699,polocaine,Local Anesthesia
+1987,22702,ludiomil,Panic Disorde
+1988,22706,echinacea,Cold Symptoms
+1989,22740,larin fe 1 / 20,Birth Control
+1990,22763,vusion,Diaper Rash
+1991,22802,silver sulfadiazine,"Burns, External"
+1992,22848,avandamet,"Diabetes, Type 2"
+1993,22860,analpram-hc,Hemorrhoids
+1994,22882,lariam,Malaria Prevention
+1995,22926,methylergonovine,Migraine
+1996,22952,oxaprozin,Rheumatoid Arthritis
+1997,22982,tanzeum,"Diabetes, Type 2"
+1998,23007,vibramycin,Skin or Soft Tissue Infection
+1999,23046,rifaximin,Irritable Bowel Syndrome
+2000,23049,hydrochlorothiazide / irbesartan,High Blood Pressure
+2001,23105,truvada,HIV Infection
+2002,23127,azelex,Rosacea
+2003,23152,ibrutinib,Chronic Lymphocytic Leukemia
+2004,23270,estradiol / norethindrone,Postmenopausal Symptoms
+2005,23299,pimozide,Tourette's Syndrome
+2006,23350,enalapril,High Blood Pressure
+2007,23364,"influenza virus vaccine, inactivated",Influenza Prophylaxis
+2008,23372,chlorpheniramine / dextromethorphan / phenylephrine,Cough and Nasal Congestion
+2009,23405,exelon,Alzheimer's Disease
+2010,23432,naprosyn,Osteoarthritis
+2011,23437,ambrisentan,Pulmonary Hypertension
+2012,23496,quazepam,Insomnia
+2013,23563,dexamethasone / tobramycin,"Conjunctivitis, Bacterial"
+2014,23578,azithromycin dose pack,Upper Respiratory Tract Infection
+2015,23583,asthmanefrin,"Asthma, acute"
+2016,23698,amitriptyline / chlordiazepoxide,Depression
+2017,23860,dallergy,Rhinitis
+2018,23900,zomig-zmt,Migraine
+2019,23915,exubera,"Diabetes, Type 2"
+2020,23970,gabarone,Diabetic Peripheral Neuropathy
+2021,23988,tribenzor,High Blood Pressure
+2022,24066,succinylcholine,Anesthesia
+2023,24153,pomalyst,Multiple Myeloma
+2024,24181,butabarbital,Sedation
+2025,24193,tudorza pressair,COPD
+2026,24214,lidocaine / prilocaine,Anesthesia
+2027,24232,ionamin,Weight Loss
+2028,24373,aquoral,Xerostomia
+2029,24407,nexavar,Thyroid Cance
+2030,24569,solarcaine first aid medicated spray,"Burns, External"
+2031,24660,rifadin,"Tuberculosis, Prophylaxis"
+2032,24690,folic acid,lic Acid Deficiency
+2033,24735,bupap,Headache
+2034,24754,norgesic forte,Muscle Spasm
+2035,24756,acetaminophen / chlorpheniramine,Cold Symptoms
+2036,24792,advil cold and sinus liqui-gels,Sinus Symptoms
+2037,24853,depakene,Bipolar Disorde
+2038,24878,wera,Polycystic Ovary Syndrome
+2039,24883,risperdal consta,Bipolar Disorde
+2040,24913,famotidine,Indigestion
+2041,24934,antivert,Vertig
+2042,24954,femring,Postmenopausal Symptoms
+2043,25009,pro-den rx,Prevention of Dental Caries
+2044,25111,esterified estrogens / methyltestosterone,Postmenopausal Symptoms
+2045,25145,chlorothiazide,Edema
+2046,25169,m-zole 3,Vaginal Yeast Infection
+2047,25238,citranatal 90 dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2048,25253,eslicarbazepine,Seizures
+2049,25255,olux,Dermatitis
+2050,25256,monopril,High Blood Pressure
+2051,25262,mircette,Birth Control
+2052,25288,corticotropin,Multiple Sclerosis
+2053,25385,cholestyramine light,Irritable Bowel Syndrome
+2054,25386,vitamin e,Tardive Dyskinesia
+2055,25391,eylea,Diabetic Macular Edema
+2056,25404,motrin ib,Pain
+2057,25425,cefixime,Urinary Tract Infection
+2058,25432,emtricitabine / tenofovir,HIV Infection
+2059,25437,rayos,COPD
+2060,25452,zosyn,Kidney Infections
+2061,25464,regadenoson,Diagnosis and Investigation
+2062,25484,tussigon,Cough
+2063,25555,invega trinza,Schizophrenia
+2064,25568,cilostazol,Intermittent Claudication
+2065,25578,imodium,"Diarrhea, Chronic"
+2066,25602,balsalazide,Crohn's Disease
+2067,25617,abraxane,Breast Cance
+2068,25618,maxichlor pse dm,Cough and Nasal Congestion
+2069,25632,carbinoxamine,Allergic Rhinitis
+2070,25664,amlactin,Ichthyosis
+2071,25722,darifenacin,Overactive Bladde
+2072,25763,timoptic,Intraocular Hypertension
+2073,25804,asacol hd,"Crohn's Disease, Maintenance"
+2074,25811,aspirin / diphenhydramine,Insomnia
+2075,25830,vitamin b12,B12 Nutritional Deficiency
+2076,25871,alphagan p,"Glaucoma, Open Angle"
+2077,25976,doxorubicin,Cance
+2078,26093,calmoseptine,Diaper Rash
+2079,26314,veramyst,Rhinitis
+2080,26379,mvi adult,Dietary Supplementation
+2081,26417,aloe vera,"Burns, External"
+2082,26496,junel 1.5 / 30,Birth Control
+2083,26551,rythmol,Atrial Fibrillation
+2084,26601,uptravi,Pulmonary Hypertension
+2085,26656,zylet,"Conjunctivitis, Bacterial"
+2086,26666,peridex,Gingivitis
+2087,26719,flagyl er,Bacterial Vaginitis
+2088,26720,benzamycin,Acne
+2089,26863,meprobamate,Anxiety
+2090,27020,cinryze,Hereditary Angioedema
+2091,27049,ornex,Sinus Symptoms
+2092,27170,minipress,Post Traumatic Stress Disorde
+2093,27174,tessalon,Cough
+2094,27177,sodium chloride,Nasal Congestion
+2095,27192,onzetra xsail,Migraine
+2096,27201,gamunex,Primary Immunodeficiency Syndrome
+2097,27346,crotamiton,Pruritus
+2098,27365,staxyn,Erectile Dysfunction
+2099,27386,junel 1 / 20,Birth Control
+2100,27446,silver,Dermatological Disorders
+2101,27696,low-ogestrel-21,Abnormal Uterine Bleeding
+2102,27732,proventil,"COPD, Acute"
+2103,27743,ortho-novum 7 / 7 / 7,Birth Control
+2104,27798,osphena,Dyspareunia
+2105,27816,azurette,Birth Control
+2106,27825,rowasa,"Ulcerative Colitis, Active"
+2107,27918,brompheniramine / pseudoephedrine,Nasal Congestion
+2108,27925,lactaid,Lactose Intolerance
+2109,27943,dilaudid-hp,Pain
+2110,27974,ascorbic acid,Dietary Supplementation
+2111,28055,pyrantel,Pinworm Infection (Enterobius vermicularis)
+2112,28120,lamivudine,Hepatitis B
+2113,28156,mono-linyah,Birth Control
+2114,28234,procardia xl,High Blood Pressure
+2115,28241,etravirine,HIV Infection
+2116,28265,nikki,Birth Control
+2117,28319,horse chestnut,Inflammatory Conditions
+2118,28334,eligard,Prostate Cance
+2119,28336,chondroitin / glucosamine,Dietary Supplementation
+2120,28404,norvir,HIV Infection
+2121,28413,lantus,"Diabetes, Type 2"
+2122,28475,florastor,Diarrhea
+2123,28516,trivora,Birth Control
+2124,28542,triavil,Anxiety
+2125,28545,aspirin / dipyridamole,"Ischemic Stroke, Prophylaxis"
+2126,28551,clindagel,Acne
+2127,28697,amethia lo,Abnormal Uterine Bleeding
+2128,28799,pancreatin,Chronic Pancreatitis
+2129,28823,namenda,Alzheimer's Disease
+2130,28858,maxifed dm,Cough and Nasal Congestion
+2131,28896,opsumit,Pulmonary Hypertension
+2132,28905,jakafi,Polycythemia Vera
+2133,28909,zaditor,"Conjunctivitis, Allergic"
+2134,28993,ciprofloxacin / dexamethasone,Otitis Externa
+2135,29088,wp thyroid,Underactive Thyroid
+2136,29124,glyxambi,"Diabetes, Type 2"
+2137,29164,dolgic plus,Headache
+2138,29171,marezine,Nausea/Vomiting
+2139,29206,caverject impulse,Erectile Dysfunction
+2140,29328,procardia,Raynaud's Syndrome
+2141,29351,zenchent,Birth Control
+2142,29358,clinoril,Ankylosing Spondylitis
+2143,29420,zymar,Ophthalmic Surgery
+2144,29545,danazol,Endometriosis
+2145,29598,salivamax,Xerostomia
+2146,29671,natelle one,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2147,29692,cimetidine,Human Papilloma Virus
+2148,29790,blisovi fe 1.5 / 30,Birth Control
+2149,29836,proamatine,Dysautonomia
+2150,29877,azilsartan medoxomil / chlorthalidone,High Blood Pressure
+2151,29907,bioflavonoids,Osteoarthritis
+2152,29966,betamethasone,Lichen Sclerosus
+2153,29972,entacapone,Parkinson's Disease
+2154,29986,altace,High Blood Pressure
+2155,29994,metformin / pioglitazone,min / pioglitazone)
+2156,30058,camreselo,Birth Control
+2157,30088,auranofin,Rheumatoid Arthritis
+2158,30105,dulcolax stool softener,Constipation
+2159,30137,aspirin / carisoprodol / codeine,Pain
+2160,30142,neutrasal,Xerostomia
+2161,30226,duoplant,Dermatological Disorders
+2162,30228,stimate,von Willebrand's Disease
+2163,30329,aspirin / oxycodone,Pain
+2164,30362,balziva,Birth Control
+2165,30446,darbepoetin alfa,Anemia Associated with Chronic Renal Failure
+2166,30474,allegra allergy,Allergic Rhinitis
+2167,30496,zinc oxide,Diaper Rash
+2168,30526,hizentra,Primary Immunodeficiency Syndrome
+2169,30562,tolmetin,"Gout, Acute"
+2170,30675,chlophedianol / guaifenesin / pseudoephedrine,Cough and Nasal Congestion
+2171,30721,sine-off maximum strength,Sinus Symptoms
+2172,30809,questran,Irritable Bowel Syndrome
+2173,30830,dasabuvir / ombitasvir / paritaprevir / ritonavir,Hepatitis C
+2174,30899,novolin 70 / 30,"Diabetes, Type 2"
+2175,31021,gavilyte-g,Bowel Preparation
+2176,31074,nimotop,Ischemic Stroke
+2177,31200,metformin / rosiglitazone,min / rosiglitazone)
+2178,31213,cortenema,Ulcerative Proctitis
+2179,31277,onexton,Acne
+2180,31381,collagenase clostridium histolyticum,Peyronie's Disease
+2181,31436,nizoral a-d,Dandruff
+2182,31532,goody's extra-strength headache powders,Pain/Feve
+2183,31585,advair hfa,"Asthma, Maintenance"
+2184,31613,sensipar,Secondary Hyperparathyroidism
+2185,31706,edluar,Insomnia
+2186,31775,zostavax,"Herpes Zoster, Prophylaxis"
+2187,31785,kybella,Submental Fullness
+2188,31819,benzocaine,Pain
+2189,31863,serax,Alcohol Withdrawal
+2190,31871,viread,Hepatitis B
+2191,31960,coricidin hbp cold & flu,Cold Symptoms
+2192,31998,quinapril,High Blood Pressure
+2193,32005,acetaminophen / caffeine,Headache
+2194,32107,chloraseptic sore throat spray,Sore Throat
+2195,32231,vanspar,Anxiety
+2196,32289,efavirenz,HIV Infection
+2197,32295,soriatane,Psoriasis
+2198,32340,simponi aria,Rheumatoid Arthritis
+2199,32403,jentadueto,"Diabetes, Type 2"
+2200,32423,enskyce,Birth Control
+2201,32451,sinemet cr,Parkinson's Disease
+2202,32521,prinivil,High Blood Pressure
+2203,32585,marlissa,Birth Control
+2204,32638,fluzone,Influenza Prophylaxis
+2205,32689,ciclopirox,"Onychomycosis, Toenail"
+2206,32727,alemtuzumab,Multiple Sclerosis
+2207,32751,hydroquinone,Dermatological Disorders
+2208,32756,afrin sinus,Nasal Congestion
+2209,32770,aluminum hydroxide / magnesium hydroxide / simethicone,GERD
+2210,32806,royal jelly,Herbal Supplementation
+2211,32874,taclonex scalp,Psoriasis
+2212,32876,acetaminophen / aspirin / caffeine / salicylamide,Migraine
+2213,32965,gris-peg,"Onychomycosis, Toenail"
+2214,33005,asendin,Depression
+2215,33093,carbidopa / entacapone / levodopa,Parkinson's Disease
+2216,33129,halaven,"Breast Cancer, Metastatic"
+2217,33135,omnitrope,Adult Human Growth Hormone Deficiency
+2218,33255,bifidobacterium infantis / lactobacillus acidophilus,Dietary Supplementation
+2219,33295,flovent hfa,"Asthma, Maintenance"
+2220,33369,balsam peru / castor oil / trypsin,Dermatologic Lesion
+2221,33399,adempas,Pulmonary Hypertension
+2222,33432,lamictal xr,Seizure Prevention
+2223,33453,elinest,Birth Control
+2224,33584,famvir,Cold Sores
+2225,33671,canasa,"Ulcerative Colitis, Active"
+2226,33761,dinoprostone,Labor Induction
+2227,33804,vidaza,Myelodysplastic Syndrome
+2228,33813,requip xl,Parkinson's Disease
+2229,33850,trandolapril / verapamil,High Blood Pressure
+2230,33866,albendazole,Pinworm Infection (Enterobius vermicularis)
+2231,33891,acetylcysteine,Expectoration
+2232,33897,tylenol 8 hour,Pain
+2233,33919,chlorpheniramine / phenylephrine,Allergic Rhinitis
+2234,34117,dyazide,High Blood Pressure
+2235,34192,azasite,"Conjunctivitis, Bacterial"
+2236,34195,nifedical xl,Raynaud's Syndrome
+2237,34200,ditropan xl,Prostatitis
+2238,34287,quinidine,Arrhythmia
+2239,34367,prolixin,Psychosis
+2240,34414,clearlax,Constipation
+2241,34448,tagamet,Human Papilloma Virus
+2242,34472,eribulin,"Breast Cancer, Metastatic"
+2243,34499,prezista,HIV Infection
+2244,34588,citric acid / potassium citrate,Urinary Tract Stones
+2245,34618,lumigan,"Glaucoma, Open Angle"
+2246,34688,advil pm,Insomnia
+2247,34707,chlorpheniramine / pseudoephedrine,Sinusitis
+2248,34735,urecholine,Abdominal Distension
+2249,34873,concept dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2250,34892,herceptin,Salivary Gland Cance
+2251,34956,novolog,"Diabetes, Type 2"
+2252,35035,sarna sensitive,Pruritus
+2253,35122,ery-tab,Bronchitis
+2254,35167,krystexxa,Gout
+2255,35198,naphazoline / pheniramine,Eye Redness/Itching
+2256,35343,megace es,Anorexia
+2257,35407,itraconazole,Dermatophytosis
+2258,35471,amikacin,Urinary Tract Infection
+2259,35658,combigan,Intraocular Hypertension
+2260,35689,biafine,Dry Skin
+2261,35702,piperacillin / tazobactam,Kidney Infections
+2262,35707,symlinpen 60,"Diabetes, Type 1"
+2263,35853,enstilar,Psoriasis
+2264,35880,lecithin,Herbal Supplementation
+2265,35898,diflorasone,Skin Rash
+2266,35928,acetaminophen / phenyltoloxamine,Influenza
+2267,35979,mucinex fast-max night time cold & flu,Cold Symptoms
+2268,36269,canasa pac,Ulcerative Proctitis
+2269,36294,conestat alfa,Hereditary Angioedema
+2270,36399,niacin / simvastatin,High Cholesterol
+2271,36414,tev-tropin,Pediatric Growth Hormone Deficiency
+2272,36428,zejula,Ovarian Cance
+2273,36484,pegloticase,Gout
+2274,36486,insulin aspart,"Diabetes, Type 2"
+2275,36541,acetaminophen / phenylephrine,Headache
+2276,36584,systane ultra,Dry Eye Disease
+2277,36610,botox cosmetic,acial Wrinkles
+2278,36631,amlodipine / hydrochlorothiazide / valsartan,ge HCT (amlodipine / hydrochlorothiazide / valsartan)
+2279,36632,torsemide,Edema
+2280,36633,salofalk,"Ulcerative Colitis, Maintenance"
+2281,36765,cladribine,Hairy Cell Leukemia
+2282,36784,lopid,High Cholesterol
+2283,36817,brodalumab,Plaque Psoriasis
+2284,36856,nitrostat,Heart Failure
+2285,36966,glucose,Hypoglycemia
+2286,36982,xolegel,Seborrheic Dermatitis
+2287,37031,dolobid,Osteoarthritis
+2288,37109,sulfur,Acne
+2289,37186,mestinon timespan,Myasthenia Gravis
+2290,37196,pirmella 1 / 35,Birth Control
+2291,37198,adoxa,Acne
+2292,37244,telaprevir,Hepatitis C
+2293,37301,olysio,Hepatitis C
+2294,37449,norinyl 1+35,Acne
+2295,37527,perphenazine,Psychosis
+2296,37557,simethicone,Gas
+2297,37574,parlodel,Hyperprolactinemia
+2298,37617,glyburide / metformin,"Diabetes, Type 2"
+2299,37638,methylcellulose,Constipation
+2300,37664,pamine,Irritable Bowel Syndrome
+2301,37715,midodrine,Postural Orthostatic Tachycardia Syndrome
+2302,37795,insulin regular,"Diabetes, Type 1"
+2303,37829,hemax,Vitamin/Mineral Supplementation and Deficiency
+2304,37875,trastuzumab,Salivary Gland Cance
+2305,37882,miltown,Anxiety
+2306,37889,butoconazole,Vaginal Yeast Infection
+2307,38007,amikin,Cystic Fibrosis
+2308,38013,brovex peb dm,Cough and Nasal Congestion
+2309,38101,cytoxan,Brain Tum
+2310,38134,theophylline,"Asthma, Maintenance"
+2311,38312,duramorph,Chronic Pain
+2312,38326,oxaydo,Chronic Pain
+2313,38468,dostinex,Hyperprolactinemia
+2314,38619,chlorhexidine,Mucositis
+2315,38662,allegra-d 24 hour,Allergic Rhinitis
+2316,38683,estratest,Hot Flashes
+2317,38828,polymyxin b / trimethoprim,"Conjunctivitis, Bacterial"
+2318,38919,soma compound with codeine,Pain
+2319,38997,buprenex,Pain
+2320,39019,milk thistle,Herbal Supplementation
+2321,39093,tronolane anesthetic for hemorrhoids,Hemorrhoids
+2322,39143,lastacaft,"Conjunctivitis, Allergic"
+2323,39272,odefsey,HIV Infection
+2324,39298,nizatidine,GERD
+2325,39357,bacitracin / neomycin / polymyxin b / pramoxine,Bacterial Skin Infection
+2326,39484,visine totality multi-symptom relief,Eye Redness/Itching
+2327,39558,pralatrexate,Peripheral T-cell Lymphoma
+2328,39577,maxair autohaler,"Asthma, Maintenance"
+2329,39665,capzasin,Pain
+2330,39680,premarin vaginal,Postmenopausal Symptoms
+2331,39700,inapsine,Nausea/Vomiting
+2332,39729,x-viate,Dry Skin
+2333,39787,benzoyl peroxide / sulfur,Acne
+2334,39872,lomedia 24 fe,Birth Control
+2335,39879,abacavir / lamivudine / zidovudine,HIV Infection
+2336,39927,pamabrom,Edema
+2337,39944,gammagard,Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+2338,39957,ziconotide,Chronic Pain
+2339,39989,alogliptin,"Diabetes, Type 2"
+2340,39993,ruxolitinib,Polycythemia Vera
+2341,40037,accolate,"Asthma, Maintenance"
+2342,40058,glutamine,Dietary Supplementation
+2343,40378,naloxone / oxycodone,Pain
+2344,40495,besifloxacin,"Conjunctivitis, Bacterial"
+2345,40615,pennyroyal,Herbal Supplementation
+2346,40644,kytril,"Nausea/Vomiting, Postoperative"
+2347,40776,dermatop,Eczema
+2348,40832,rho (d) immune globulin,Idiopathic Thrombocytopenic Purpura
+2349,40841,daklinza,Hepatitis C
+2350,40888,l-methylfolate calcium,Dietary Supplementation
+2351,40987,vanquish,Migraine
+2352,41008,pepto-bismol,Diarrhea
+2353,41074,sotalol hydrochloride af,Atrial Fibrillation
+2354,41124,topical anesthetic dental gel,Oral and Dental Conditions
+2355,41146,systane balance,Eye Redness
+2356,41187,nizoral shampoo,Dandruff
+2357,41277,rebetol,Hepatitis C
+2358,41301,sodium bicarbonate,Asystole
+2359,41303,calan sr,Nocturnal Leg Cramps
+2360,41480,adriamycin,Breast Cance
+2361,41534,ecallantide,Hereditary Angioedema
+2362,41676,lipofen,Hypertriglyceridemia
+2363,41720,gavilyte-n,Bowel Preparation
+2364,41722,ethosuximide,Seizures
+2365,41831,innopran xl,Migraine Prevention
+2366,41844,cleocin hcl,Skin or Soft Tissue Infection
+2367,41875,gemzar,Pancreatic Cance
+2368,41897,methergine,Migraine
+2369,41916,pentobarbital,Insomnia
+2370,41955,prenexa,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2371,42113,prednicarbate,Eczema
+2372,42176,intermezzo,Insomnia
+2373,42186,sudafed congestion,Nasal Congestion
+2374,42187,aflibercept,Macular Degeneration
+2375,42244,bromfenac,Postoperative Ocular Inflammation
+2376,42264,symlin,"Diabetes, Type 1"
+2377,42271,efudex,Skin Cance
+2378,42384,diastat,Seizures
+2379,42385,belladonna tincture,Irritable Bowel Syndrome
+2380,42394,dynacin,Acne
+2381,42422,prenatal plus,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2382,42516,c1 esterase inhibitor (human),Hereditary Angioedema
+2383,42521,antihemophilic factor / von willebrand factor,von Willebrand's Disease
+2384,42567,spiriva respimat,"COPD, Maintenance"
+2385,42584,mevacor,"High Cholesterol, Familial Heterozygous"
+2386,42634,dexpanthenol,Dry Skin
+2387,42754,ampicillin,Urinary Tract Infection
+2388,42803,myfortic,Rejection Prophylaxis
+2389,42814,calcitonin,Osteoporosis
+2390,42855,heme iron polypeptide,Iron Deficiency Anemia
+2391,42920,raspberry,Diarrhea
+2392,43121,isentress,HIV Infection
+2393,43129,caduet,High Blood Pressure
+2394,43155,abobotulinumtoxina,acial Wrinkles
+2395,43220,besivance,"Conjunctivitis, Bacterial"
+2396,43225,hypotears,Eye Redness
+2397,43360,alupent,"Asthma, Maintenance"
+2398,43400,lamictal odt,Bipolar Disorde
+2399,43410,paremyd,Pupillary Dilation
+2400,43502,brompheniramine / dextromethorphan / phenylephrine,Cough and Nasal Congestion
+2401,43547,evekeo,ADHD
+2402,43583,mg217 medicated tar,Psoriasis
+2403,43646,arsenic trioxide,Acute Promyelocytic Leukemia
+2404,43679,constulose,"Constipation, Chronic"
+2405,43749,xartemis xr,Pain
+2406,43768,umeclidinium,COPD
+2407,43773,compoz nighttime sleep aid,Insomnia
+2408,43808,panitumumab,Colorectal Cance
+2409,43860,bupivacaine,Postoperative Pain
+2410,43934,xeljanz xr,Rheumatoid Arthritis
+2411,44085,dexamethasone intensol,Inflammatory Conditions
+2412,44140,reserpine,High Blood Pressure
+2413,44223,nepafenac,Postoperative Ocular Inflammation
+2414,44273,acetaminophen / pseudoephedrine,Sinus Symptoms
+2415,44298,chlor-trimeton,Allergic Reactions
+2416,44344,amino acids,Dietary Supplementation
+2417,44451,niraparib,Ovarian Cance
+2418,44502,pregnyl,Ovulation Induction
+2419,44543,darunavir,HIV Infection
+2420,44581,larin 24 fe,Birth Control
+2421,44631,crizotinib,Non-Small Cell Lung Cance
+2422,44646,cylert,ADHD
+2423,44756,gadopentetate dimeglumine,CNS Magnetic Resonance Imaging
+2424,44886,flagyl iv,Bacterial Infection
+2425,44958,cyclessa,Birth Control
+2426,44992,xylocaine jelly,"Burns, External"
+2427,44998,vivaglobin,Primary Immunodeficiency Syndrome
+2428,45082,ogen,Postmenopausal Symptoms
+2429,45179,dextromethorphan / promethazine,Cough
+2430,45181,edarbi,High Blood Pressure
+2431,45203,aggrenox,"Ischemic Stroke, Prophylaxis"
+2432,45208,fuzeon,HIV Infection
+2433,45286,procrit,Anemia
+2434,45349,ketalar,Anesthesia
+2435,45481,milk of magnesia,Constipation
+2436,45518,dichlorphenamide,Hypokalemic Periodic Paralysis
+2437,45573,firazyr,Hereditary Angioedema
+2438,45577,rilonacept,amilial Cold Autoinflammatory Syndrome
+2439,45746,clove,Oral and Dental Conditions
+2440,45763,prevacid solutab,GERD
+2441,45813,pramlintide,"Diabetes, Type 1"
+2442,46042,duoneb,"COPD, Maintenance"
+2443,46189,arixtra,"Deep Vein Thrombosis, Prophylaxis"
+2444,46253,sodium polystyrene sulfonate,Hyperkalemia
+2445,46258,peg3350,Bowel Preparation
+2446,46278,aptensio xr,ADHD
+2447,46281,osteo bi-flex,Osteoarthritis
+2448,46282,gildess 1 / 20,Birth Control
+2449,46304,semprex-d,Nasal Congestion
+2450,46359,b3-500-gr,High Cholesterol
+2451,46401,maprotiline,Depression
+2452,46408,istalol,"Glaucoma, Open Angle"
+2453,46416,relenza,Influenza
+2454,46428,anakinra,Still's Disease
+2455,46571,dorzolamide / timolol,"Glaucoma, Open Angle"
+2456,46787,trandolapril,Heart Failure
+2457,46874,tiazac,Atrial Fibrillation
+2458,46965,alka-seltzer plus cold,Cold Symptoms
+2459,47075,capmist dm,Cough and Nasal Congestion
+2460,47139,lac-hydrin,Dry Skin
+2461,47188,miconazole / zinc oxide,Diaper Rash
+2462,47202,stalevo,Parkinson's Disease
+2463,47239,atropine / difenoxin,"Diarrhea, Acute"
+2464,47383,basaglar,"Diabetes, Type 2"
+2465,47447,lorazepam intensol,Sedation
+2466,47497,airduo respiclick,"Asthma, Maintenance"
+2467,47653,trifluoperazine,Anxiety
+2468,47716,delzicol,"Ulcerative Colitis, Active"
+2469,47718,declomycin,SIADH
+2470,47837,oxyir,Pain
+2471,47861,disopyramide,Arrhythmia
+2472,47994,vesanoid,Acute Promyelocytic Leukemia
+2473,48060,timolol,"Glaucoma, Open Angle"
+2474,48112,nevirapine,HIV Infection
+2475,48156,fortamet,Insulin Resistance Syndrome
+2476,48275,synarel,Endometriosis
+2477,48334,acetaminophen / caffeine / pyrilamine,Premenstrual Syndrome
+2478,48375,enfuvirtide,HIV Infection
+2479,48475,iron sucrose,Iron Deficiency Anemia
+2480,48491,theratears nutrition,Dietary Supplementation
+2481,48766,bosentan,Pulmonary Hypertension
+2482,48809,brovana,"COPD, Maintenance"
+2483,48888,pyrimethamine / sulfadoxine,Malaria
+2484,48909,phenytek,Seizures
+2485,48916,cervidil,Labor Induction
+2486,48931,lamivudine / zidovudine,HIV Infection
+2487,48937,antipyrine / benzocaine,Otitis Media
+2488,49108,readi-cat 2,Computed Tomography
+2489,49319,fluphenazine,Psychosis
+2490,49549,loracarbef,Sinusitis
+2491,49687,dysport,acial Wrinkles
+2492,49727,daypro,Osteoarthritis
+2493,49750,targretin,Cutaneous T-cell Lymphoma
+2494,49767,nodoz,Hypersomnia
+2495,49820,accupril,Heart Failure
+2496,49875,thiothixene,Psychosis
+2497,49978,dramamine ii,Vertig
+2498,50023,navane,Psychosis
+2499,50048,unisom sleepmelts,Insomnia
+2500,50155,humate-p,von Willebrand's Disease
+2501,50320,mucomyst,Expectoration
+2502,50330,duet dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2503,50331,lovastatin,High Cholesterol
+2504,50357,zzzquil,Insomnia
+2505,50418,viramune,HIV Infection
+2506,50554,plegridy,Multiple Sclerosis
+2507,50599,aloxi,"Nausea/Vomiting, Postoperative"
+2508,50662,peg-3350 with electolytes,Bowel Preparation
+2509,50733,tussicaps,Cough
+2510,50835,depo-medrol,Inflammatory Conditions
+2511,50974,insulin isophane / insulin regular,"Diabetes, Type 2"
+2512,51013,solarcaine burn relief,Sunburn
+2513,51049,lovaza,Hypertriglyceridemia
+2514,51051,sertaconazole,Tinea Pedis
+2515,51137,maxidone,Pain
+2516,51265,eltrombopag,Idiopathic Thrombocytopenic Purpura
+2517,51272,zytiga,Prostate Cance
+2518,51282,afrin original,Nasal Congestion
+2519,51378,sprix,Pain
+2520,51398,bicillin l-a,"Lyme Disease, Neurologic"
+2521,51433,locoid lipocream,Dermatitis
+2522,51441,ponstel,Period Pain
+2523,51534,all day allergy,Allergic Rhinitis
+2524,51535,nystatin / triamcinolone,Cutaneous Candidiasis
+2525,51651,anaprox-ds,Period Pain
+2526,51706,tivicay,HIV Infection
+2527,51753,nutraplus,Dry Skin
+2528,51860,dramamine less drowsy,Vertig
+2529,51867,fml forte liquifilm,Eye Redness
+2530,51878,motofen,"Diarrhea, Chronic"
+2531,51912,dextrostat,"Sexual Dysfunction, SSRI Induced"
+2532,51967,oxymetholone,Anemia
+2533,52199,limbrel 500,Osteoarthritis
+2534,52299,insulin lispro / insulin lispro protamine,"Diabetes, Type 2"
+2535,52348,zenpep,Chronic Pancreatitis
+2536,52351,bosulif,Chronic Myelogenous Leukemia
+2537,52376,felodipine,Raynaud's Syndrome
+2538,52430,kaletra,HIV Infection
+2539,52517,excedrin pm,Headache
+2540,52535,fleet glycerin suppositories adult,Constipation
+2541,52547,molindone,Schizophrenia
+2542,52704,aveeno,Dry Skin
+2543,52804,insulin aspart / insulin aspart protamine,"Diabetes, Type 1"
+2544,52904,xigduo xr,"Diabetes, Type 2"
+2545,52975,dificid,Clostridial Infection
+2546,53031,cefzil,Upper Respiratory Tract Infection
+2547,53061,tracleer,Pulmonary Hypertension
+2548,53080,podophyllum resin,Human Papilloma Virus
+2549,53090,procyclidine,Parkinsonism
+2550,53289,synalar,Lichen Sclerosus
+2551,53342,ortho-cept,Birth Control
+2552,53389,omnaris,Allergic Rhinitis
+2553,53445,blistex lip balm,Dry Skin
+2554,53508,osmoprep,Bowel Preparation
+2555,53622,cobicistat / darunavir,HIV Infection
+2556,53766,zinc sulfate,Vitamin/Mineral Supplementation and Deficiency
+2557,53846,xopenex hfa,"Asthma, acute"
+2558,53907,pepcid,GERD
+2559,54063,taxol,"Breast Cancer, Metastatic"
+2560,54099,florinef,Postural Orthostatic Tachycardia Syndrome
+2561,54244,monurol,Bladder Infection
+2562,54280,damiana,Erectile Dysfunction
+2563,54288,neoral,Idiopathic Thrombocytopenic Purpura
+2564,54344,ofloxacin,Urinary Tract Infection
+2565,54497,dapagliflozin / metformin,min)
+2566,54521,pramosone,Dermatological Disorders
+2567,54532,synjardy,"Diabetes, Type 2"
+2568,54551,profe,Iron Deficiency Anemia
+2569,54674,compro,Nausea/Vomiting
+2570,54795,ultracet,Pain
+2571,54812,perindopril,High Blood Pressure
+2572,55042,aveed,"Hypogonadism, Male"
+2573,55239,rebif rebidose,Multiple Sclerosis
+2574,55670,hydrocortisone / neomycin / polymyxin b,Otitis Media
+2575,55716,twynsta,High Blood Pressure
+2576,55772,junel fe 24,Birth Control
+2577,55777,primlev,Pain
+2578,55783,tandem dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2579,55814,amiloride,Edema
+2580,55865,loestrin 21 1.5 / 30,Birth Control
+2581,56402,lonox,Diarrhea
+2582,56451,metolazone,Edema
+2583,56473,amitriptyline / perphenazine,Anxiety
+2584,56512,plendil,High Blood Pressure
+2585,56592,zoster vaccine live,"Herpes Zoster, Prophylaxis"
+2586,56662,glucovance,"Diabetes, Type 2"
+2587,56719,acrivastine / pseudoephedrine,Nasal Congestion
+2588,56852,qualaquin,Nocturnal Leg Cramps
+2589,56903,pilocarpine,Xerostomia
+2590,57066,chlorpheniramine / methscopolamine / pseudoephedrine,Sinus Symptoms
+2591,57069,droperidol,Nausea/Vomiting
+2592,57158,interferon alfa-2b,Melanoma
+2593,57172,alsuma,Migraine
+2594,57185,promacta,Thrombocytopenia
+2595,57230,miacalcin,Osteoporosis
+2596,57357,cefditoren,Skin and Structure Infection
+2597,57420,tapazole,Hyperthyroidism
+2598,57603,citranatal assure,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2599,57625,vasotec,Diabetic Kidney Disease
+2600,57680,nizoral topical,Seborrheic Dermatitis
+2601,57712,halog,Eczema
+2602,57899,epogen,Anemia
+2603,57941,cyklokapron,Bleeding Disorde
+2604,57965,triprolidine,Allergies
+2605,58022,acticlate,Acne
+2606,58094,piperonyl butoxide / pyrethrins,Head Lice
+2607,58200,amethia,Birth Control
+2608,58453,h.p. acthar gel,Multiple Sclerosis
+2609,58455,qnasl,Allergic Rhinitis
+2610,58467,methacholine,Diagnosis and Investigation
+2611,58522,depo-subq provera 104,Birth Control
+2612,58602,cafergot,Migraine
+2613,58648,ferrous fumarate,Iron Deficiency Anemia
+2614,58746,normodyne,High Blood Pressure
+2615,58910,calomist,Vitamin B12 Deficiency
+2616,59165,ridaura,Rheumatoid Arthritis
+2617,59308,liquid co-q10,Dietary Supplementation
+2618,59448,lithostat,Urinary Tract Infection
+2619,59603,diphenhydramine / pseudoephedrine,Allergic Rhinitis
+2620,59645,depo-testosterone,"Hypogonadism, Male"
+2621,59654,trelstar,Prostate Cance
+2622,59773,bortezomib,Multiple Myeloma
+2623,59779,halflytely and bisacodyl,Bowel Preparation
+2624,59897,ethinyl estradiol / folic acid / levonorgestrel,Birth Control
+2625,59926,remodulin,Pulmonary Hypertension
+2626,60160,epinastine,"Conjunctivitis, Allergic"
+2627,60225,betaseron,Multiple Sclerosis
+2628,60247,triptorelin,Prostate Cance
+2629,60287,corgard,Supraventricular Tachycardia
+2630,60301,suprax,Bronchitis
+2631,60436,brompheniramine / codeine / phenylephrine,Cough and Nasal Congestion
+2632,60468,ferumoxytol,Iron Deficiency Anemia
+2633,60804,mepolizumab,Asthma
+2634,60867,aventyl hydrochloride,Reflex Sympathetic Dystrophy Syndrome
+2635,61002,amlodipine / telmisartan,High Blood Pressure
+2636,61328,claritin-d 12 hour,Nasal Congestion
+2637,61353,lincomycin,Bacterial Infection
+2638,61438,actifed,Cold Symptoms
+2639,61493,primatene,Cold Symptoms
+2640,61547,gelusil,Gas
+2641,61558,maxaron forte,Anemia
+2642,61582,picato,Keratosis
+2643,61718,platinol,Brain Tum
+2644,61797,nolvadex,Breast Cance
+2645,61853,epoprostenol,Pulmonary Hypertension
+2646,61880,flavoxate,Overactive Bladde
+2647,61889,velphoro,Hyperphosphatemia of Renal Failure
+2648,62135,elestrin,Postmenopausal Symptoms
+2649,62136,anturol,Overactive Bladde
+2650,62217,psoriasin,Psoriasis
+2651,62237,gildess 1.5 / 30,Birth Control
+2652,62252,ferralet 90,Anemia
+2653,62273,imotil,Diarrhea
+2654,62393,penicillamine,Wilson's Disease
+2655,62459,captopril,High Blood Pressure
+2656,62479,gonal-f,"Hypogonadism, Male"
+2657,62724,glatopa,Multiple Sclerosis
+2658,62803,zarontin,Seizures
+2659,62856,medium chain triglycerides,Dietary Supplementation
+2660,62872,thiopental,Anesthesia
+2661,62946,oxyfast,Pain
+2662,62984,dorzolamide,"Glaucoma, Open Angle"
+2663,63047,irinotecan,Colorectal Cance
+2664,63052,loteprednol / tobramycin,"Conjunctivitis, Bacterial"
+2665,63056,citrate of magnesia,Constipation
+2666,63064,nexium iv,GERD
+2667,63088,codimal dm,Cold Symptoms
+2668,63152,ddavp nasal,Diabetes Insipidus
+2669,63268,tinzaparin,Deep Vein Thrombosis
+2670,63327,nedocromil,"Conjunctivitis, Allergic"
+2671,63356,norel sr,Nasal Congestion
+2672,63377,levodopa,Restless Legs Syndrome
+2673,63423,senokot s,"Constipation, Acute"
+2674,63588,vemurafenib,"Melanoma, Metastatic"
+2675,63596,ergomar,Migraine
+2676,63743,terazol,Vaginal Yeast Infection
+2677,63889,excedrin back & body,Pain
+2678,64348,cenestin,Hypoestrogenism
+2679,64408,flovent,"Asthma, Maintenance"
+2680,64493,nabilone,ibromyalgia
+2681,64512,ala-quin,Dermatitis
+2682,64679,omnipaque 350,Body Imaging
+2683,64696,brethine,Premature Lab
+2684,64810,vontrol,Vertig
+2685,65079,pazeo,Seasonal Allergic Conjunctivitis
+2686,65216,ivabradine,Heart Failure
+2687,65225,midol pm,Pain
+2688,65235,sulfatrim,Urinary Tract Infection
+2689,65344,neo-poly-dex,"Conjunctivitis, Bacterial"
+2690,65367,vincristine,Cance
+2691,65375,phillips colon health,Dietary Supplementation
+2692,65391,budeprion sr,Depression
+2693,65493,benefix,actor IX Deficiency
+2694,65547,moban,Schizophrenia
+2695,65583,mucinex dm,Cough
+2696,65644,buproban,Smoking Cessation
+2697,65701,amlodipine / atorvastatin,High Blood Pressure
+2698,65793,anucort-hc,Psoriasis
+2699,65826,sinequan,Depression
+2700,65894,cutivate,Lichen Sclerosus
+2701,65909,colace,Constipation
+2702,66153,saccharomyces boulardii lyo,Diarrhea
+2703,66267,humulin r u-500 (concentrated),"Diabetes, Type 1"
+2704,66451,dermazinc shampoo,Seborrheic Dermatitis
+2705,66599,epzicom,HIV Infection
+2706,66605,proferrin-es,Vitamin/Mineral Supplementation and Deficiency
+2707,66626,lillow,Birth Control
+2708,66735,beconase aq,Allergic Rhinitis
+2709,66750,nitro-bid,Raynaud's Syndrome
+2710,66954,magaldrate / simethicone,Indigestion
+2711,66977,metaproterenol,"Asthma, Maintenance"
+2712,67015,philith,Birth Control
+2713,67104,pulmicort turbuhaler,"Asthma, Maintenance"
+2714,67345,lmx 4,Anesthesia
+2715,67434,goody's headache powders,Migraine
+2716,67441,vicks qlearquil nighttime allergy relief,Cold Symptoms
+2717,67592,visine original,Eye Redness
+2718,67641,blistex,Herpes Simplex
+2719,67647,evista,Osteoporosis
+2720,67755,zanamivir,Influenza
+2721,67976,polytrim,"Conjunctivitis, Bacterial"
+2722,68059,niferex,Iron Deficiency Anemia
+2723,68095,cinqair,Asthma
+2724,68143,carbamide peroxide,Ear Wax Impaction
+2725,68238,sudafed 24-hour,Nasal Congestion
+2726,68343,aloprim,Gout
+2727,68500,parafon forte dsc,Muscle Spasm
+2728,68681,norpramin,Depression
+2729,68811,senna plus,"Constipation, Acute"
+2730,68852,corzide 80 / 5,High Blood Pressure
+2731,68997,salicylic acid / urea,t Care
+2732,69057,enulose,Hepatic Encephalopathy
+2733,69087,leukeran,Chronic Lymphocytic Leukemia
+2734,69223,incobotulinumtoxina,Cervical Dystonia
+2735,69286,lazanda,Breakthrough Pain
+2736,69301,novolog mix 70 / 30,"Diabetes, Type 1"
+2737,69346,meningococcal group b vaccine,"Meningitis, Meningococcal"
+2738,69473,ayr saline nasal,Nasal Congestion
+2739,69637,renagel,Hyperphosphatemia of Renal Failure
+2740,69714,aleve-d sinus & cold,Sinus Symptoms
+2741,69818,bensal hp,Dermatological Disorders
+2742,70009,ergotamine,Migraine
+2743,70189,fludara,Chronic Lymphocytic Leukemia
+2744,70249,mycelex troche,Oral Thrush
+2745,70405,rhinocort,Allergic Rhinitis
+2746,70464,zyrtec-d 12 hour,Allergic Rhinitis
+2747,70615,acetaminophen / diphenhydramine / phenylephrine,Cold Symptoms
+2748,70644,briellyn,Birth Control
+2749,71011,vicks formula 44,Cough
+2750,71038,"rabies vaccine, human diploid cell",Rabies Prophylaxis
+2751,71537,feverall,Pain
+2752,71625,prozac weekly,Major Depressive Disorde
+2753,71637,carboplatin,Ovarian Cance
+2754,71766,calcium carbonate / simethicone,GERD
+2755,71789,ropivacaine,Labor Pain
+2756,71790,nucala,Asthma
+2757,72035,afatinib,Non-Small Cell Lung Cance
+2758,72142,schiff move free,Dietary Supplementation
+2759,72152,goldenseal,Skin and Structure Infection
+2760,72463,salvax duo,t Care
+2761,72468,tetracaine,Cold Sores
+2762,72607,myorisan,Acne
+2763,72666,guaifenesin / hydrocodone,Cough
+2764,72702,dexpak taperpak,Eczema
+2765,72728,florinef acetate,Postural Orthostatic Tachycardia Syndrome
+2766,72939,dehydroepiandrosterone,Dietary Supplementation
+2767,72955,kneerelief,Muscle Pain
+2768,73034,proscar,Benign Prostatic Hyperplasia
+2769,73128,supprelin la,Precocious Puberty
+2770,73210,probenecid and colchicine,Gouty Arthritis
+2771,73260,rezira,Cough and Nasal Congestion
+2772,73524,benzyl alcohol,Head Lice
+2773,73556,theo-24,"Asthma, Maintenance"
+2774,73588,ceftibuten,Bronchitis
+2775,73687,tenoretic 50,High Blood Pressure
+2776,73737,glipizide / metformin,"Diabetes, Type 2"
+2777,73756,mandelamine,Prevention of Bladder infection
+2778,73810,bumetanide,Edema
+2779,73983,nizoral,Vaginal Yeast Infection
+2780,74034,aliskiren / hydrochlorothiazide,High Blood Pressure
+2781,74126,claritin-d 24 hour,Allergic Rhinitis
+2782,74214,phosphasal,Urinary Tract Infection
+2783,74387,zovia 1 / 35,Birth Control
+2784,74550,nuwiq,Hemophilia A
+2785,74656,fast freeze,Pain
+2786,74894,mebendazole,Ascariasis
+2787,75190,parathyroid hormone,Hypoparathyroidism
+2788,75375,seconal sodium,Insomnia
+2789,75399,moexipril,High Blood Pressure
+2790,75436,tri-lo-estarylla,Birth Control
+2791,75444,salivart,Xerostomia
+2792,75663,methyldopa,High Blood Pressure
+2793,75805,cisplatin,Brain Tum
+2794,75945,trelstar la,Prostate Cance
+2795,76042,refresh liquigel,Dry Eye Disease
+2796,76086,palgic,Allergic Rhinitis
+2797,76117,absorbine jr.,Rheumatoid Arthritis
+2798,76260,prolensa,Postoperative Ocular Inflammation
+2799,76266,premphase,Postmenopausal Symptoms
+2800,76285,tri-lo-marzia,Abnormal Uterine Bleeding
+2801,76371,zurampic,Gout
+2802,76506,seconal,Insomnia
+2803,76713,azo-cranberry,Urinary Tract Infection
+2804,76864,rilutek,Obsessive Compulsive Disorde
+2805,76988,azasan,Crohn's Disease
+2806,77251,peginterferon beta-1a,Multiple Sclerosis
+2807,77271,"hair, skin & nails",Dietary Supplementation
+2808,77313,panhematin,Porphyria
+2809,77416,lidocaine / menthol,Muscle Pain
+2810,77555,slo-niacin,High Cholesterol
+2811,77568,promethazine dm,Cough
+2812,77755,immune globulin intravenous and subcutaneous,Primary Immunodeficiency Syndrome
+2813,77807,bronkaid,Cold Symptoms
+2814,77982,caverject,Erectile Dysfunction
+2815,77983,enemeez mini,Constipation
+2816,78015,brinzolamide,"Glaucoma, Open Angle"
+2817,78346,cytotec,Abortion
+2818,78442,floxin,Campylobacter Gastroenteritis
+2819,78512,halcinonide,Eczema
+2820,78612,selzentry,HIV Infection
+2821,78755,minivelle,Postmenopausal Symptoms
+2822,78796,aristocort,Asthma
+2823,79330,bacitracin / neomycin / polymyxin b,Bacterial Skin Infection
+2824,79357,vitamin d3,Vitamin D Deficiency
+2825,79382,mekinist,"Melanoma, Metastatic"
+2826,79472,ephedrine,Narcolepsy
+2827,79575,provenge,Prostate Cance
+2828,79609,fludrocortisone,Postural Orthostatic Tachycardia Syndrome
+2829,79768,calcium acetate,Hyperphosphatemia
+2830,79842,blephamide,"Conjunctivitis, Bacterial"
+2831,79939,cefotaxime,Skin or Soft Tissue Infection
+2832,80093,pemetrexed,Non-Small Cell Lung Cance
+2833,80171,nulytely,Bowel Preparation
+2834,80368,malathion,Head Lice
+2835,80398,children's claritin allergy,Allergic Rhinitis
+2836,80518,acetic acid,Wound Cleansing
+2837,80679,paraplatin,Ovarian Cance
+2838,81075,vaprisol,Euvolemic Hyponatremia
+2839,81092,robitussin cold cough and flu,Cold Symptoms
+2840,81282,arnuity ellipta,"Asthma, Maintenance"
+2841,81328,phentride,Weight Loss
+2842,81536,artemether / lumefantrine,Malaria
+2843,81543,rolapitant,"Nausea/Vomiting, Chemotherapy Induced"
+2844,81607,calamine,Pruritus
+2845,81737,gemcitabine,"Breast Cancer, Metastatic"
+2846,81914,azo urinary pain relief,Interstitial Cystitis
+2847,81964,tolnaftate,Tinea Cruris
+2848,82098,ganciclovir,Herpes Simplex Dendritic Keratitis
+2849,82105,tarka,High Blood Pressure
+2850,82343,lesinurad,Gout
+2851,82383,exforge hct,High Blood Pressure
+2852,82680,zafirlukast,"Asthma, Maintenance"
+2853,82693,filgrastim,Neutropenia Associated with Chemotherapy
+2854,82837,salicylic acid,Warts
+2855,82868,bendroflumethiazide / nadolol,High Blood Pressure
+2856,82909,jencycla,Birth Control
+2857,83058,faslodex,"Breast Cancer, Metastatic"
+2858,83107,micrainin,Anxiety
+2859,83182,epidrin,Headache
+2860,83261,cranberry,Urinary Incontinence
+2861,83349,hydrocortone,Addison's Disease
+2862,83361,bacitracin / polymyxin b,Bacterial Skin Infection
+2863,83417,emtricitabine / rilpivirine / tenofovir alafenamide,HIV Infection
+2864,83436,torisel,Renal Cell Carcinoma
+2865,83534,saw palmetto,Benign Prostatic Hyperplasia
+2866,83554,cardizem cd,Atrial Fibrillation
+2867,83596,diphenhydramine / phenylephrine,Allergic Rhinitis
+2868,83681,cesamet,ibromyalgia
+2869,84301,citric acid / simethicone / sodium bicarbonate,Gas
+2870,84441,triple antibiotic,Bacterial Skin Infection
+2871,84495,lanthanum carbonate,Hyperphosphatemia of Renal Failure
+2872,84603,atrovent hfa,"COPD, Maintenance"
+2873,84789,halog-e,Eczema
+2874,84825,rhinocort aqua,Allergic Rhinitis
+2875,84850,pneumococcal 23-polyvalent vaccine,Pneumococcal Disease Prophylaxis
+2876,84884,dong quai,Headache
+2877,85003,glucophage xr,"Diabetes, Type 2"
+2878,85084,infumorph,Chronic Pain
+2879,85221,alprazolam intensol,Anxiety
+2880,85527,sumadan,Acne
+2881,85531,nicotrol ns,Smoking Cessation
+2882,85555,chloramphenicol,Bacterial Infection
+2883,85557,vitapap,Pain
+2884,85575,altabax,Acne
+2885,85742,azilect,Parkinson's Disease
+2886,85787,genteal,Dry Eye Disease
+2887,85827,chlorpheniramine / dextromethorphan,Cough and Nasal Congestion
+2888,86138,mumps virus vaccine,Mumps Prophylaxis
+2889,86191,enzalutamide,Prostate Cance
+2890,86251,phendiet,Obesity
+2891,86292,cosamin ds,Dietary Supplementation
+2892,86325,nesina,"Diabetes, Type 2"
+2893,86353,isradipine,Raynaud's Syndrome
+2894,86404,epivir,HIV Infection
+2895,86409,indapamide,Not Listed / Othe
+2896,86512,dicloxacillin,Bone infection
+2897,86529,toujeo solostar,"Diabetes, Type 2"
+2898,86624,flonase allergy relief,Rhinitis
+2899,86705,lanolin,Dry Skin
+2900,86730,nytol,Insomnia
+2901,86782,demeclocycline,SIADH
+2902,86804,peri-colace,"Constipation, Acute"
+2903,86985,alamast,"Conjunctivitis, Allergic"
+2904,87116,adcirca,Pulmonary Hypertension
+2905,87189,uristat,Dysuria
+2906,87240,vancocin,Meningitis
+2907,87278,menest,Postmenopausal Symptoms
+2908,87320,mucinex sinus-max full force,Nasal Congestion
+2909,87321,glumetza,"Diabetes, Type 2"
+2910,87414,hyalgan,Osteoarthritis
+2911,87497,nilstat,Oral Thrush
+2912,87625,tolak,Actinic Keratosis
+2913,87646,alimta,Non-Small Cell Lung Cance
+2914,87718,conivaptan,Euvolemic Hyponatremia
+2915,87721,cytra-k,Urinary Tract Stones
+2916,88221,chlorambucil,Chronic Lymphocytic Leukemia
+2917,88578,inspra,High Blood Pressure
+2918,88946,hemin,Porphyria
+2919,88992,zaroxolyn,Edema
+2920,89003,flibanserin,Hypoactive Sexual Desire Disorde
+2921,89066,melpaque hp,Dermatological Disorders
+2922,89103,westhroid,Underactive Thyroid
+2923,89144,metrocream,Rosacea
+2924,89215,cortisone,Dermatomyositis
+2925,89275,reyataz,HIV Infection
+2926,89285,zecuity,Migraine
+2927,89353,delatestryl,"Hypogonadism, Male"
+2928,89509,bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,Bowel Preparation
+2929,89557,ferrous gluconate,Iron Deficiency Anemia
+2930,89781,provida dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+2931,89839,striant,"Hypogonadism, Male"
+2932,90182,bivalirudin,Percutaneous Coronary Intervention
+2933,90299,qutenza,Peripheral Neuropathy
+2934,90399,hepatitis b adult vaccine,Hepatitis B Prevention
+2935,90402,benemid,Gout
+2936,90567,gadobutrol,CNS Magnetic Resonance Imaging
+2937,90583,meropenem,Skin or Soft Tissue Infection
+2938,90587,leader nicotine polacrilex,Smoking Cessation
+2939,90590,exparel,Pain
+2940,90862,bayer children's aspirin,Transient Ischemic Attack
+2941,90978,incruse ellipta,COPD
+2942,91050,methyltestosterone,"Hypogonadism, Male"
+2943,91054,mitoxantrone,Multiple Sclerosis
+2944,91300,tesamorelin,Lipodystrophy
+2945,91394,micon 7,Vaginal Yeast Infection
+2946,91463,sulfinpyrazone,Gouty Arthritis
+2947,91521,tobrex,"Conjunctivitis, Bacterial"
+2948,91591,imiglucerase,Gaucher Disease
+2949,91692,alclometasone,Psoriasis
+2950,91736,isoxsuprine,Cerebrovascular Insufficiency
+2951,91895,cubicin,Skin and Structure Infection
+2952,91908,nexafed nasal decongestant,Nasal Congestion
+2953,91913,nuvessa,Bacterial Vaginitis
+2954,91982,hecoria,"Organ Transplant, Rejection Prophylaxis"
+2955,92219,d.h.e. 45,Cluster Headaches
+2956,92223,immune globulin intravenous,Anti NMDA Receptor Encephalitis
+2957,92240,iron polysaccharide,Iron Deficiency Anemia
+2958,92449,doral,Insomnia
+2959,92566,medrol,"Gout, Acute"
+2960,92637,divigel,Postmenopausal Symptoms
+2961,92643,ibu,Rheumatoid Arthritis
+2962,92708,moxeza,"Conjunctivitis, Bacterial"
+2963,92946,aspirin / chlorpheniramine / phenylephrine,Sinus Symptoms
+2964,92952,auryxia,Hyperphosphatemia of Renal Failure
+2965,92997,sansert,Migraine
+2966,93038,otrexup,Rheumatoid Arthritis
+2967,93052,isosorbide dinitrate,Angina
+2968,93058,sterapred ds,Cluster Headaches
+2969,93337,integra f,Anemia
+2970,93642,vivactil,Depression
+2971,93654,l-carnitine,Peripheral Neuropathy
+2972,93704,trusopt,"Glaucoma, Open Angle"
+2973,94038,orvaten,Postural Orthostatic Tachycardia Syndrome
+2974,94114,ginseng,Herbal Supplementation
+2975,94267,enlyte,Vitamin/Mineral Supplementation and Deficiency
+2976,94521,proctofoam hc,Hemorrhoids
+2977,94793,ex-lax maximum relief formula,Constipation
+2978,94935,tandem,Iron Deficiency Anemia
+2979,95030,norditropin,Adult Human Growth Hormone Deficiency
+2980,95453,wal-finate,Allergic Rhinitis
+2981,95629,d3,Vitamin D Deficiency
+2982,95883,doans pills extra strength,Pain
+2983,96032,purinethol,Autoimmune Hepatitis
+2984,96282,desowen,Eczema
+2985,96350,tums smoothies,Indigestion
+2986,96424,phentercot,Weight Loss
+2987,96548,ipratropium inhalation solution,Asthma
+2988,96691,senna lax,Constipation
+2989,96790,afrin 4 hour extra moisturizing,Nasal Congestion
+2990,96877,afrin nodrip sinus,Nasal Congestion
+2991,97096,skeeter stik,Pruritus
+2992,97231,iohexol,Body Imaging
+2993,97857,aldactazide,High Blood Pressure
+2994,97876,atropine,Not Listed / Othe
+2995,97957,nevanac,Postoperative Ocular Inflammation
+2996,97965,clindamax,Bacterial Vaginitis
+2997,97969,feraheme,Iron Deficiency Anemia
+2998,97985,pepcid ac chewable tablets,GERD
+2999,98063,melquin hp,Dermatological Disorders
+3000,98100,visrx dose pack,Sinus Symptoms
+3001,98134,praziquantel,"Paragonimus westermani, Lung Fluke"
+3002,98226,desyrel dividose,Sedation
+3003,98499,atrovent,"COPD, Maintenance"
+3004,98507,norfloxacin,Bladder Infection
+3005,98917,nasarel,Allergic Rhinitis
+3006,98928,m-end pe,Cough and Nasal Congestion
+3007,98970,maxair,"Asthma, Maintenance"
+3008,99050,alpha 1-proteinase inhibitor,Alpha-1 Proteinase Inhibitor Deficiency
+3009,99090,absorica,Acne
+3010,99219,potassium iodide,Hyperthyroidism
+3011,99232,uta,Urinary Tract Infection
+3012,99428,creatine,Herbal Supplementation
+3013,99580,take action,Emergency Contraception
+3014,99753,ed a-hist,Cold Symptoms
+3015,99773,mirapex er,Parkinson's Disease
+3016,99787,protriptyline,Depression
+3017,99857,excedrin tension headache,Headache
+3018,99873,questran light,Crohn's Disease
+3019,99945,ansaid,Rheumatoid Arthritis
+3020,100076,danocrine,Endometriosis
+3021,100093,octagam,Primary Immunodeficiency Syndrome
+3022,100136,vicks sinex 12-hour decongestant nasal spray,Nasal Congestion
+3023,100162,acetaminophen / pamabrom / pyrilamine,Premenstrual Syndrome
+3024,100500,orajel,Aphthous Ulce
+3025,100539,altretamine,Ovarian Cance
+3026,100557,vectibix,Colorectal Cance
+3027,100946,pedi-dri,Vaginal Yeast Infection
+3028,100947,coenzyme q10,Dietary Supplementation
+3029,100999,topicort lp,Psoriasis
+3030,101181,dasetta 7 / 7 / 7,Menstrual Disorders
+3031,101229,kionex,Hyperkalemia
+3032,101268,travel-eze,Motion Sickness
+3033,101294,loxapine,Schizophrenia
+3034,101593,lincocin,Bacterial Infection
+3035,101776,avar ls cleanser,Seborrheic Dermatitis
+3036,101784,fulvestrant,"Breast Cancer, Metastatic"
+3037,102076,diprolene af,Atopic Dermatitis
+3038,102439,niacinamide,Niacin Deficiency
+3039,102440,ciclodan,"Onychomycosis, Toenail"
+3040,102652,zegerid otc,GERD
+3041,102737,bexarotene,Cutaneous T-cell Lymphoma
+3042,102756,mucinex fast-max severe congestion & cough,Cough and Nasal Congestion
+3043,102786,readi-cat,Computed Tomography
+3044,102794,interferon beta-1b,Multiple Sclerosis
+3045,102822,tenuate dospan,Obesity
+3046,103151,betapace af,Atrial Flutte
+3047,103159,diurex water capsules,Edema
+3048,103711,xiaflex,Dupuytren's contracture
+3049,103944,insulin isophane,Gestational Diabetes
+3050,104602,alefacept,Psoriasis
+3051,105103,flumist quadrivalent,Influenza Prophylaxis
+3052,105109,vivelle,Postmenopausal Symptoms
+3053,105137,banzel,Lennox-Gastaut Syndrome
+3054,105211,introvale,Birth Control
+3055,105238,acyclovir / hydrocortisone,Cold Sores
+3056,105621,co-trimoxazole,Bacterial Skin Infection
+3057,105872,kemadrin,Parkinson's Disease
+3058,106035,attapulgite,Diarrhea
+3059,106066,inulin,Dietary Fiber Supplementation
+3060,106267,menthol / zinc oxide,Diaper Rash
+3061,106439,luminal,Seizures
+3062,106495,privigen,Primary Immunodeficiency Syndrome
+3063,106562,kineret,Schnitzler Syndrome
+3064,106656,novolog flexpen,"Diabetes, Type 2"
+3065,106883,vanatrip,Insomnia
+3066,106920,natpara,Hypoparathyroidism
+3067,106997,mexitil,Arrhythmia
+3068,107040,latisse,Eyelash Hypotrichosis
+3069,107120,hyomax,Irritable Bowel Syndrome
+3070,107150,bee pollen,Herbal Supplementation
+3071,107267,glecaprevir / pibrentasvir,Hepatitis C
+3072,107297,radiaplexrx,"Burns, External"
+3073,107504,marcaine,Local Anesthesia
+3074,107514,femtrace,Postmenopausal Symptoms
+3075,107760,brimonidine / brinzolamide,"Glaucoma, Open Angle"
+3076,107934,zyrtec-d,Allergic Rhinitis
+3077,107968,gengraf,"Organ Transplant, Rejection Prophylaxis"
+3078,108203,histrelin,Precocious Puberty
+3079,108230,acebutolol,High Blood Pressure
+3080,108233,mavyret,Hepatitis C
+3081,108424,pancreaze,Chronic Pancreatitis
+3082,108483,smoothie readi-cat 2,Computed Tomography
+3083,108585,hexachlorophene,Acne
+3084,108602,paclitaxel,Ovarian Cance
+3085,108665,olux-e,Atopic Dermatitis
+3086,108722,ponatinib,Chronic Myelogenous Leukemia
+3087,108740,oxy-10,Acne
+3088,108938,norlyda,Birth Control
+3089,109319,guarana,Herbal Supplementation
+3090,109343,eurax,Pruritus
+3091,109605,menactra,Meningococcal Meningitis Prophylaxis
+3092,109627,rajani,Birth Control
+3093,109646,caziant,Birth Control
+3094,109684,pletal,Intermittent Claudication
+3095,109798,mucinex maximum strength,Cough
+3096,109814,talacen,Pain
+3097,110069,bidil,Heart Failure
+3098,110108,terazol 7,Vaginal Yeast Infection
+3099,110118,cetaphil lotion,Dry Skin
+3100,110124,probenecid,Gout
+3101,110213,aricept odt,Mild Cognitive Impairment
+3102,110520,doc-q-lax,"Constipation, Acute"
+3103,110546,follicle stimulating hormone,"Hypogonadism, Male"
+3104,110884,cosopt,"Glaucoma, Open Angle"
+3105,110944,atelvia,Osteoporosis
+3106,111010,dazidox,Chronic Pain
+3107,111024,aquavite-e,Tardive Dyskinesia
+3108,111042,embeline,Psoriasis
+3109,111150,prolastin-c,Alpha-1 Proteinase Inhibitor Deficiency
+3110,111173,alogliptin / metformin,min)
+3111,111189,azulfidine,Ulcerative Colitis
+3112,111500,sleep aid,Insomnia
+3113,111513,cuvitru,Primary Immunodeficiency Syndrome
+3114,111639,vitamin c,Dietary Supplementation
+3115,111706,alphanine sd,Hemophilia B
+3116,111791,busulfan,Thrombocythemia
+3117,112239,vitafol ultra,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+3118,112582,unasyn,Bone infection
+3119,113294,lagesic,Pain
+3120,113357,cheratussin dac,Cold Symptoms
+3121,113437,ampicillin / sulbactam,Urinary Tract Infection
+3122,113491,coagulation factor ix,actor IX Deficiency
+3123,113594,avar,Acne
+3124,113802,clioquinol / hydrocortisone,Dermatitis
+3125,113898,lorcet,Pain
+3126,113928,lorabid,Sinusitis
+3127,114007,fostex medicated,Acne
+3128,114008,estrasorb,Postmenopausal Symptoms
+3129,114133,nisoldipine,Raynaud's Syndrome
+3130,114188,ethacrynic acid,Edema
+3131,114402,bag balm,Dry Skin
+3132,114683,hexalen,Ovarian Cance
+3133,114714,benzefoam,Acne
+3134,114848,selsun blue,Tinea Versicol
+3135,114939,camptosar,Colorectal Cance
+3136,114977,sucroferric oxyhydroxide,Hyperphosphatemia of Renal Failure
+3137,115096,fortical,Osteoporosis
+3138,115124,cerefolin nac,Dietary Supplementation
+3139,115275,hyosyne,Irritable Bowel Syndrome
+3140,115409,lactic acid,Dry Skin
+3141,115413,nexium 24hr,GERD
+3142,115603,humalog mix 75 / 25,"Diabetes, Type 2"
+3143,115667,dexchlorpheniramine / dextromethorphan / pseudoephedrine,Sinusitis
+3144,115804,pomalidomide,Multiple Myeloma
+3145,116054,headache relief pm,Insomnia
+3146,116374,pyrimethamine,Malaria Prevention
+3147,116442,univasc,High Blood Pressure
+3148,116468,ozurdex,Uveitis
+3149,117021,zinc gluconate,Dietary Supplementation
+3150,117310,chlorcyclizine / phenylephrine,Rhinitis
+3151,117664,tylenol arthritis pain,Pain
+3152,117923,thioridazine,Schizophrenia
+3153,117931,pulmicort respules,"Asthma, Maintenance"
+3154,118160,pima,Hyperthyroidism
+3155,118435,necitumumab,Non-Small Cell Lung Cance
+3156,118532,panoxyl 10% acne foaming wash,Acne
+3157,118586,novolin n,"Diabetes, Type 2"
+3158,118751,reese's pinworm medicine,Pinworm Infection (Enterobius vermicularis)
+3159,118788,valerian,Insomnia
+3160,119040,diprosone,Dermatological Disorders
+3161,119921,chondroitin / glucosamine / methylsulfonylmethane,Osteoarthritis
+3162,119940,apokyn,Parkinson's Disease
+3163,120068,trental,Intermittent Claudication
+3164,120176,vancocin hcl,Bone infection
+3165,120278,hyzine,Allergies
+3166,120409,activella,Postmenopausal Symptoms
+3167,120491,pyridoxine,Nausea/Vomiting
+3168,120525,dabrafenib,"Melanoma, Metastatic"
+3169,120758,fleet bisacodyl,Bowel Preparation
+3170,120853,benzalkonium chloride / lidocaine,Bacterial Skin Infection
+3171,121189,zetran,Anxiety
+3172,121375,glyset,"Diabetes, Type 2"
+3173,121440,cortef,Adrenocortical Insufficiency
+3174,121460,leustatin,Hairy Cell Leukemia
+3175,121775,ifosfamide,Testicular Cance
+3176,121925,zeasorb-af drying gel,Tinea Pedis
+3177,121938,bp wash,Acne
+3178,122047,fansidar,Malaria
+3179,122133,flunisolide,Allergic Rhinitis
+3180,122193,allegra odt,Allergic Rhinitis
+3181,122245,verelan pm,Cluster Headaches
+3182,122290,acetaminophen / aspirin,Back Pain
+3183,122338,labetalol,High Blood Pressure
+3184,122368,vitafol-ob+dha,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+3185,122427,romidepsin,Peripheral T-cell Lymphoma
+3186,122711,belladonna,Irritable Bowel Syndrome
+3187,122799,polysporin first aid antibiotic ointment,Bacterial Skin Infection
+3188,123058,velcade,Multiple Myeloma
+3189,123626,capzasin-p,Osteoarthritis
+3190,123752,lanoxicaps,Atrial Fibrillation
+3191,123759,percodan,Pain
+3192,123780,bacitracin,Bacterial Skin Infection
+3193,123846,lmx 5,Hemorrhoids
+3194,123917,sudafed pe pressure + pain,Sinus Symptoms
+3195,124255,anusol-hc suppositories,Hemorrhoids
+3196,124340,coq10,Dietary Supplementation
+3197,124477,regorafenib,Gastrointestinal Stromal Tum
+3198,124806,juvederm voluma xc,acial Wrinkles
+3199,125531,zyprexa intramuscular,Agitation
+3200,125567,trametinib,"Melanoma, Metastatic"
+3201,125866,hydrea,Thrombocythemia
+3202,126437,tropicamide,Pupillary Dilation
+3203,126501,macugen,Macular Degeneration
+3204,126543,generlac,Hepatic Encephalopathy
+3205,126932,vanatab dx,Cough and Nasal Congestion
+3206,127083,prednisolone / sulfacetamide sodium,"Conjunctivitis, Bacterial"
+3207,127200,ifex,Testicular Cance
+3208,127238,resorcinol / sulfur,Acne
+3209,127272,periogard,Gingivitis
+3210,127569,zostrix,Osteoarthritis
+3211,127603,phrenilin,Headache
+3212,127698,arformoterol,moterol)
+3213,127778,vicks dayquil cold & flu relief,Sinus Symptoms
+3214,127956,vincasar pfs,Cance
+3215,127962,phenylephrine / pyrilamine,Sinusitis
+3216,128281,fluoroplex,Skin Cance
+3217,128287,slippery elm,Herbal Supplementation
+3218,128379,rayaldee,Hyperparathyroidism Secondary to Renal Impairment
+3219,128885,ob complete gold,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+3220,128956,varubi,"Nausea/Vomiting, Chemotherapy Induced"
+3221,128963,rid,Head Lice
+3222,129405,benadryl allergy sinus,Allergic Rhinitis
+3223,129426,cometriq,Thyroid Cance
+3224,129493,temsirolimus,Renal Cell Carcinoma
+3225,129788,proglycem,Hypoglycemia
+3226,130092,doculax,"Constipation, Acute"
+3227,130283,apomorphine,Parkinson's Disease
+3228,130317,diastat acudial,Seizures
+3229,130396,alka-seltzer plus cold formula sparkling original effervescent tablets,Sinus Symptoms
+3230,130490,trixaicin hp,Pain
+3231,130502,norpace,Arrhythmia
+3232,130623,darvocet-n 50,Pain
+3233,130993,advil migraine,Headache
+3234,131175,gramicidin / neomycin / polymyxin b,"Conjunctivitis, Bacterial"
+3235,131222,optivar,"Conjunctivitis, Allergic"
+3236,131475,estraderm,Postmenopausal Symptoms
+3237,131515,betadine aerosol spray,Topical Disinfection
+3238,131564,oasis tears,Eye Redness
+3239,132008,scytera,Psoriasis
+3240,132193,prednicot,Rheumatoid Arthritis
+3241,132198,augmentin es-600,Urinary Tract Infection
+3242,132214,pernox,Acne
+3243,132263,noroxin,Urinary Tract Infection
+3244,132423,isoptin sr,Cluster Headaches
+3245,132489,axid,GERD
+3246,132522,todays health nasal  relief extra moisturizing,Nasal Congestion
+3247,132535,palladone,Pain
+3248,132599,methitest,"Hypogonadism, Male"
+3249,132733,peganone,Epilepsy
+3250,132774,acetic acid / antipyrine / benzocaine / polycosanol,Ear Wax Impaction
+3251,132973,pin-x,Pinworm Infection (Enterobius vermicularis)
+3252,133005,zioptan,Glaucoma/Intraocular Hypertension
+3253,133007,mifepristone,Abortion
+3254,133276,gentian violet,Oral Thrush
+3255,133695,istodax,Peripheral T-cell Lymphoma
+3256,133784,stalevo 150,Parkinson's Disease
+3257,133816,hydralazine / hydrochlorothiazide / reserpine,High Blood Pressure
+3258,134014,dimethyl sulfoxide,Not Listed / Othe
+3259,134035,theratears,Eye Redness
+3260,134752,oxtellar xr,Seizures
+3261,134822,triple paste,Diaper Rash
+3262,135418,daptomycin,Skin and Structure Infection
+3263,135605,azmacort,Asthma
+3264,135743,prax,Pruritus
+3265,135744,devrom,Gas
+3266,135930,psorcon,Skin Rash
+3267,136178,robitussin cough + chest congestion dm,Cough
+3268,136455,palonosetron,"Nausea/Vomiting, Postoperative"
+3269,136537,zostrix diabetic foot pain,Diabetic Peripheral Neuropathy
+3270,136668,fallback solo,Emergency Contraception
+3271,136773,striverdi respimat,COPD
+3272,137148,fosinopril,High Blood Pressure
+3273,137217,capex,Atopic Dermatitis
+3274,137365,deconamine,Allergic Rhinitis
+3275,137666,loratadine-d 24 hour,Nasal Congestion
+3276,137956,eplerenone,High Blood Pressure
+3277,137970,pirbuterol,"Asthma, acute"
+3278,137997,depakote sprinkles,Mania
+3279,138108,refresh pm,Eye Redness
+3280,138226,cholecalciferol / folic acid,Dietary Supplementation
+3281,138603,larissia,Birth Control
+3282,138634,insta-glucose,Hypoglycemia
+3283,138645,prevalite,"Hyperlipoproteinemia Type IIa, Elevated LDL"
+3284,138725,integra,Anemia
+3285,138734,eskalith-cr,Bipolar Disorde
+3286,138850,clioquinol,Tinea Pedis
+3287,138889,clarinex-d 12 hour,Allergic Rhinitis
+3288,139205,zyloprim,Gout
+3289,139399,prevacid otc,GERD
+3290,139431,provocholine,Diagnosis and Investigation
+3291,139442,colyte,Bowel Preparation
+3292,139552,vospire er,Bronchospasm Prophylaxis
+3293,139600,virtussin a / c,Cough
+3294,139623,xgeva,Hypercalcemia of Malignancy
+3295,139699,magnevist,CNS Magnetic Resonance Imaging
+3296,139868,maxitrol,"Conjunctivitis, Bacterial"
+3297,139893,cortizone-10,Eczema
+3298,140093,razadyne er,Alzheimer's Disease
+3299,140134,calcifediol,Hyperparathyroidism Secondary to Renal Impairment
+3300,140358,kazano,"Diabetes, Type 2"
+3301,140429,cepacol dual relief sore throat,Sore Throat
+3302,140623,natesto,"Hypogonadism, Male"
+3303,140734,reslizumab,Asthma
+3304,140975,tums regular strength,GERD
+3305,141106,crinone,Progesterone Insufficiency
+3306,141463,valcyte,CMV Prophylaxis
+3307,141614,dornase alfa,Cystic Fibrosis
+3308,142211,mucinex dm maximum strength,Expectoration
+3309,142283,macitentan,Pulmonary Hypertension
+3310,142521,loprox,Seborrheic Dermatitis
+3311,142746,polidocanol,Varicose Veins
+3312,143232,hydroxocobalamin,Vitamin B12 Deficiency
+3313,143352,alka-seltzer cold and sinus,Sinus Symptoms
+3314,143386,gadoxetate disodium,Liver Magnetic Resonance Imaging
+3315,143559,desonate,Eczema
+3316,143635,trizivir,HIV Infection
+3317,143917,dimetapp children's cold & cough,Cough and Nasal Congestion
+3318,143950,tranxene sd,Anxiety
+3319,144072,fenoprofen,"Gout, Acute"
+3320,144932,nimodipine,Migraine Prevention
+3321,145028,cleocin ovules,Bacterial Vaginitis
+3322,145041,jantoven,Prevention of Thromboembolism in Atrial Fibrillation
+3323,145052,sudafed 12-hour,Nasal Congestion
+3324,145264,ethambutol,"Mycobacterium avium-intracellulare, Treatment"
+3325,145269,epivir-hbv,Hepatitis B
+3326,145302,codeine / guaifenesin / pseudoephedrine,Cold Symptoms
+3327,145689,vitamin b6,Nausea/Vomiting
+3328,145755,timoptic ocudose,"Glaucoma, Open Angle"
+3329,145889,trokendi xr,Seizure Prevention
+3330,146068,ibudone,Pain
+3331,146100,nafarelin,Endometriosis
+3332,146286,ovidrel,"Hypogonadism, Male"
+3333,146329,dasetta 1 / 35,Birth Control
+3334,146379,relion / novolin 70 / 30,"Diabetes, Type 1"
+3335,146617,intron a,Hepatitis C
+3336,146681,ery pads,Acne
+3337,146751,uniretic,High Blood Pressure
+3338,146868,hydrocortisone / lidocaine,Hemorrhoids
+3339,146924,naftin,Tinea Cruris
+3340,147003,dantrolene,Chronic Spasticity
+3341,147661,tetrahydrozoline,Eye Redness
+3342,147698,vasculera,Dietary Supplementation
+3343,147731,diazoxide,Hypoglycemia
+3344,148439,benzoyl peroxide / salicylic acid,Acne
+3345,148459,xodol,Back Pain
+3346,148690,retre-gel,Cold Sores
+3347,148712,carmol 20,Dermatological Disorders
+3348,148746,fletchers castoria,Constipation
+3349,149346,trimethobenzamide,Nausea/Vomiting
+3350,149724,vitamin d2,Vitamin D Deficiency
+3351,149755,pedipirox-4,"Onychomycosis, Toenail"
+3352,149970,pr natal 400,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+3353,150016,saizen,Adult Human Growth Hormone Deficiency
+3354,150100,alocril,"Conjunctivitis, Allergic"
+3355,150178,innohep,Deep Vein Thrombosis
+3356,150667,coricidin hbp cough & cold,Cough and Nasal Congestion
+3357,150800,actonel with calcium,Osteoporosis
+3358,150985,aller-ease,Urticaria
+3359,151000,treanda,Non-Hodgkin's Lymphoma
+3360,151007,fludarabine,Chronic Lymphocytic Leukemia
+3361,151103,bc fast pain relief,Headache
+3362,151516,ulesfia,Head Lice
+3363,151580,carfilzomib,Multiple Myeloma
+3364,151680,rocaltrol,Hypocalcemia
+3365,151682,senexon,Constipation
+3366,151776,simbrinza,"Glaucoma, Open Angle"
+3367,151785,naproxen / pseudoephedrine,Sinus Symptoms
+3368,152244,ethchlorvynol,Insomnia
+3369,152819,senna s,"Constipation, Acute"
+3370,152883,ferrlecit,Anemia Associated with Chronic Renal Failure
+3371,153166,plexion cleanser,Rosacea
+3372,153797,luxiq,Dermatological Disorders
+3373,153954,dexasone,Lymphoma
+3374,154090,proleukin,Renal Cell Carcinoma
+3375,154607,neupogen,Neutropenia Associated with Chemotherapy
+3376,154615,sensorcaine-mpf,Local Anesthesia
+3377,154745,dextromethorphan / phenylephrine / pyrilamine,Cold Symptoms
+3378,155106,medi-quik spray,Pain
+3379,155199,streptokinase,Heart Attack
+3380,155284,hydralazine / isosorbide dinitrate,Heart Failure
+3381,155499,butisol sodium,Sedation
+3382,155839,phoslo,Hyperphosphatemia
+3383,155947,acetaminophen / caffeine / magnesium salicylate,Muscle Pain
+3384,156232,peppermint,Nausea/Vomiting
+3385,156436,midostaurin,Systemic Mastocytosis
+3386,156700,calcium / vitamin d,Osteoporosis
+3387,156754,calcium carbonate / risedronate,Osteoporosis
+3388,156778,riociguat,Pulmonary Hypertension
+3389,156910,zemaira,Alpha-1 Proteinase Inhibitor Deficiency
+3390,156966,acetaminophen / dexbrompheniramine / pseudoephedrine,Allergic Rhinitis
+3391,157040,clemastine,Allergic Rhinitis
+3392,157050,pacerone,Arrhythmia
+3393,157100,valganciclovir,CMV Prophylaxis
+3394,157208,urised,Urinary Tract Infection
+3395,157584,folotyn,Peripheral T-cell Lymphoma
+3396,157747,amevive,Psoriasis
+3397,158119,mylanta gas,Gas
+3398,158284,midol extended relief,Period Pain
+3399,158313,desloratadine / pseudoephedrine,Allergic Rhinitis
+3400,158402,extina,Seborrheic Dermatitis
+3401,158605,lomaira,Weight Loss
+3402,158793,acarbose,"Diabetes, Type 2"
+3403,158817,antihemophilic factor,Hemophilia A
+3404,159000,zileuton,"Asthma, Maintenance"
+3405,159013,amethyst,Birth Control
+3406,159208,midamor,High Blood Pressure
+3407,159209,oxytocin,Labor Induction
+3408,159221,iluvien,Diabetic Macular Edema
+3409,159247,mavik,Heart Failure
+3410,159308,aldomet,High Blood Pressure
+3411,159361,grifulvin v,Dermatophytosis
