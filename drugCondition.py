@@ -6,9 +6,10 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
+import json
 
-credentials = st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"]
-st.write(credentials)
+credentials = json.loads(st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
+
 client = vision.ImageAnnotatorClient(credentials=credentials)
 
 
