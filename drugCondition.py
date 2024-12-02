@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import json
-credentials_dict = json.load(st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
+credentials_dict = json.loads(st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
 st.write(type(credentials_dict))
 st.write(credentials_dict)
 
