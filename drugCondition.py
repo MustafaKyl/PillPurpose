@@ -6,8 +6,8 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
-
-credentials_dict = st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"]
+import json
+credentials_dict = json.load(st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
 
 credentials = Credentials.from_service_account_info(credentials_dict)
 
