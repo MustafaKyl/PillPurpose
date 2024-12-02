@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-credentials = Credentials.from_service_account_file("pillpurpose-cd819248ee89.json")
+credentials = st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"]
 
 client = vision.ImageAnnotatorClient(credentials=credentials)
 
