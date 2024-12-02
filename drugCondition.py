@@ -32,8 +32,7 @@ pd.set_option("display.max_rows",50)
 
 df = pd.read_csv("uniqueDrugInformation.csv")
 df.drop("Unnamed: 0", axis=1, inplace=True)
-enable = st.checkbox("Enable camera")
-downloadImage = st.camera_input("Take a picture", disabled=not enable)
+downloadImage = st.file_uploader("Bir resim yükleyin")
 
 
 if downloadImage is not None:
