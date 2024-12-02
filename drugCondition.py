@@ -10,6 +10,9 @@ import json
 
 credentials = json.loads(st.secrets["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
 
+st.write(type(credentials))
+st.write(credentials)
+
 client = vision.ImageAnnotatorClient(credentials=credentials)
 
 
